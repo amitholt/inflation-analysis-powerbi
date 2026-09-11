@@ -1,0 +1,1861 @@
+Country,Region,Year,Inflation Rate (%),Date
+Afghanistan,Asia,2015,5.1,2015-01-01
+Afghanistan,Asia,2016,4.3,2016-01-01
+Afghanistan,Asia,2017,5.4,2017-01-01
+Afghanistan,Asia,2018,5.8,2018-01-01
+Afghanistan,Asia,2019,4.4,2019-01-01
+Afghanistan,Asia,2020,3.8,2020-01-01
+Afghanistan,Asia,2021,7.0,2021-01-01
+Afghanistan,Asia,2022,8.4,2022-01-01
+Afghanistan,Asia,2023,7.5,2023-01-01
+Afghanistan,Asia,2024,6.2,2024-01-01
+Albania,Europe,2015,2.1,2015-01-01
+Albania,Europe,2016,1.8,2016-01-01
+Albania,Europe,2017,2.1,2017-01-01
+Albania,Europe,2018,2.6,2018-01-01
+Albania,Europe,2019,2.0,2019-01-01
+Albania,Europe,2020,1.1,2020-01-01
+Albania,Europe,2021,3.5,2021-01-01
+Albania,Europe,2022,4.3,2022-01-01
+Albania,Europe,2023,4.0,2023-01-01
+Albania,Europe,2024,3.0,2024-01-01
+Algeria,Africa,2015,4.7,2015-01-01
+Algeria,Africa,2016,4.2,2016-01-01
+Algeria,Africa,2017,5.4,2017-01-01
+Algeria,Africa,2018,5.3,2018-01-01
+Algeria,Africa,2019,4.7,2019-01-01
+Algeria,Africa,2020,3.9,2020-01-01
+Algeria,Africa,2021,7.0,2021-01-01
+Algeria,Africa,2022,8.4,2022-01-01
+Algeria,Africa,2023,7.4,2023-01-01
+Algeria,Africa,2024,6.4,2024-01-01
+Angola,Africa,2015,11.6,2015-01-01
+Angola,Africa,2016,9.6,2016-01-01
+Angola,Africa,2017,10.2,2017-01-01
+Angola,Africa,2018,10.3,2018-01-01
+Angola,Africa,2019,10.7,2019-01-01
+Angola,Africa,2020,10.2,2020-01-01
+Angola,Africa,2021,12.2,2021-01-01
+Angola,Africa,2022,13.3,2022-01-01
+Angola,Africa,2023,12.3,2023-01-01
+Angola,Africa,2024,12.2,2024-01-01
+Argentina,South America,2015,36.6,2015-01-01
+Argentina,South America,2016,35.7,2016-01-01
+Argentina,South America,2017,33.8,2017-01-01
+Argentina,South America,2018,36.0,2018-01-01
+Argentina,South America,2019,35.2,2019-01-01
+Argentina,South America,2020,34.7,2020-01-01
+Argentina,South America,2021,38.8,2021-01-01
+Argentina,South America,2022,39.0,2022-01-01
+Argentina,South America,2023,38.9,2023-01-01
+Argentina,South America,2024,36.6,2024-01-01
+Armenia,Asia,2015,3.9,2015-01-01
+Armenia,Asia,2016,3.6,2016-01-01
+Armenia,Asia,2017,3.6,2017-01-01
+Armenia,Asia,2018,4.2,2018-01-01
+Armenia,Asia,2019,3.7,2019-01-01
+Armenia,Asia,2020,2.8,2020-01-01
+Armenia,Asia,2021,5.7,2021-01-01
+Armenia,Asia,2022,7.7,2022-01-01
+Armenia,Asia,2023,6.1,2023-01-01
+Armenia,Asia,2024,5.5,2024-01-01
+Australia,Oceania,2015,1.6,2015-01-01
+Australia,Oceania,2016,1.6,2016-01-01
+Australia,Oceania,2017,2.2,2017-01-01
+Australia,Oceania,2018,2.5,2018-01-01
+Australia,Oceania,2019,2.2,2019-01-01
+Australia,Oceania,2020,1.6,2020-01-01
+Australia,Oceania,2021,3.4,2021-01-01
+Australia,Oceania,2022,4.5,2022-01-01
+Australia,Oceania,2023,4.1,2023-01-01
+Australia,Oceania,2024,3.1,2024-01-01
+Austria,Europe,2015,0.7,2015-01-01
+Austria,Europe,2016,0.4,2016-01-01
+Austria,Europe,2017,0.9,2017-01-01
+Austria,Europe,2018,1.5,2018-01-01
+Austria,Europe,2019,1.0,2019-01-01
+Austria,Europe,2020,0.6,2020-01-01
+Austria,Europe,2021,2.4,2021-01-01
+Austria,Europe,2022,3.7,2022-01-01
+Austria,Europe,2023,3.0,2023-01-01
+Austria,Europe,2024,2.0,2024-01-01
+Azerbaijan,Asia,2015,8.2,2015-01-01
+Azerbaijan,Asia,2016,7.3,2016-01-01
+Azerbaijan,Asia,2017,8.0,2017-01-01
+Azerbaijan,Asia,2018,8.3,2018-01-01
+Azerbaijan,Asia,2019,7.4,2019-01-01
+Azerbaijan,Asia,2020,7.4,2020-01-01
+Azerbaijan,Asia,2021,9.8,2021-01-01
+Azerbaijan,Asia,2022,11.5,2022-01-01
+Azerbaijan,Asia,2023,10.7,2023-01-01
+Azerbaijan,Asia,2024,9.7,2024-01-01
+Bahamas,North America,2015,1.6,2015-01-01
+Bahamas,North America,2016,1.1,2016-01-01
+Bahamas,North America,2017,1.4,2017-01-01
+Bahamas,North America,2018,1.8,2018-01-01
+Bahamas,North America,2019,1.0,2019-01-01
+Bahamas,North America,2020,0.4,2020-01-01
+Bahamas,North America,2021,2.6,2021-01-01
+Bahamas,North America,2022,3.8,2022-01-01
+Bahamas,North America,2023,3.4,2023-01-01
+Bahamas,North America,2024,2.3,2024-01-01
+Bahrain,Asia,2015,1.7,2015-01-01
+Bahrain,Asia,2016,1.8,2016-01-01
+Bahrain,Asia,2017,1.9,2017-01-01
+Bahrain,Asia,2018,2.4,2018-01-01
+Bahrain,Asia,2019,1.6,2019-01-01
+Bahrain,Asia,2020,1.1,2020-01-01
+Bahrain,Asia,2021,3.1,2021-01-01
+Bahrain,Asia,2022,4.3,2022-01-01
+Bahrain,Asia,2023,3.9,2023-01-01
+Bahrain,Asia,2024,2.5,2024-01-01
+Bangladesh,Asia,2015,6.2,2015-01-01
+Bangladesh,Asia,2016,5.7,2016-01-01
+Bangladesh,Asia,2017,6.0,2017-01-01
+Bangladesh,Asia,2018,6.0,2018-01-01
+Bangladesh,Asia,2019,6.0,2019-01-01
+Bangladesh,Asia,2020,5.0,2020-01-01
+Bangladesh,Asia,2021,8.1,2021-01-01
+Bangladesh,Asia,2022,9.5,2022-01-01
+Bangladesh,Asia,2023,9.1,2023-01-01
+Bangladesh,Asia,2024,7.4,2024-01-01
+Barbados,North America,2015,1.2,2015-01-01
+Barbados,North America,2016,1.2,2016-01-01
+Barbados,North America,2017,1.7,2017-01-01
+Barbados,North America,2018,2.2,2018-01-01
+Barbados,North America,2019,1.7,2019-01-01
+Barbados,North America,2020,1.0,2020-01-01
+Barbados,North America,2021,3.4,2021-01-01
+Barbados,North America,2022,3.8,2022-01-01
+Barbados,North America,2023,3.2,2023-01-01
+Barbados,North America,2024,2.4,2024-01-01
+Belarus,Europe,2015,6.8,2015-01-01
+Belarus,Europe,2016,6.0,2016-01-01
+Belarus,Europe,2017,7.5,2017-01-01
+Belarus,Europe,2018,7.4,2018-01-01
+Belarus,Europe,2019,6.4,2019-01-01
+Belarus,Europe,2020,5.8,2020-01-01
+Belarus,Europe,2021,9.1,2021-01-01
+Belarus,Europe,2022,10.9,2022-01-01
+Belarus,Europe,2023,10.3,2023-01-01
+Belarus,Europe,2024,9.7,2024-01-01
+Belgium,Europe,2015,1.6,2015-01-01
+Belgium,Europe,2016,1.0,2016-01-01
+Belgium,Europe,2017,1.1,2017-01-01
+Belgium,Europe,2018,1.9,2018-01-01
+Belgium,Europe,2019,1.3,2019-01-01
+Belgium,Europe,2020,0.8,2020-01-01
+Belgium,Europe,2021,2.8,2021-01-01
+Belgium,Europe,2022,4.1,2022-01-01
+Belgium,Europe,2023,3.6,2023-01-01
+Belgium,Europe,2024,2.7,2024-01-01
+Belize,North America,2015,1.2,2015-01-01
+Belize,North America,2016,0.6,2016-01-01
+Belize,North America,2017,0.9,2017-01-01
+Belize,North America,2018,1.5,2018-01-01
+Belize,North America,2019,1.2,2019-01-01
+Belize,North America,2020,1.0,2020-01-01
+Belize,North America,2021,2.7,2021-01-01
+Belize,North America,2022,4.1,2022-01-01
+Belize,North America,2023,3.0,2023-01-01
+Belize,North America,2024,2.0,2024-01-01
+Benin,Africa,2015,0.8,2015-01-01
+Benin,Africa,2016,0.5,2016-01-01
+Benin,Africa,2017,1.7,2017-01-01
+Benin,Africa,2018,1.2,2018-01-01
+Benin,Africa,2019,1.2,2019-01-01
+Benin,Africa,2020,0.2,2020-01-01
+Benin,Africa,2021,2.7,2021-01-01
+Benin,Africa,2022,3.7,2022-01-01
+Benin,Africa,2023,2.8,2023-01-01
+Benin,Africa,2024,2.1,2024-01-01
+Bhutan,Asia,2015,2.8,2015-01-01
+Bhutan,Asia,2016,2.7,2016-01-01
+Bhutan,Asia,2017,3.1,2017-01-01
+Bhutan,Asia,2018,3.2,2018-01-01
+Bhutan,Asia,2019,2.7,2019-01-01
+Bhutan,Asia,2020,2.2,2020-01-01
+Bhutan,Asia,2021,5.4,2021-01-01
+Bhutan,Asia,2022,6.5,2022-01-01
+Bhutan,Asia,2023,5.5,2023-01-01
+Bhutan,Asia,2024,4.6,2024-01-01
+Bolivia,South America,2015,3.8,2015-01-01
+Bolivia,South America,2016,3.2,2016-01-01
+Bolivia,South America,2017,3.6,2017-01-01
+Bolivia,South America,2018,4.3,2018-01-01
+Bolivia,South America,2019,3.6,2019-01-01
+Bolivia,South America,2020,3.1,2020-01-01
+Bolivia,South America,2021,5.5,2021-01-01
+Bolivia,South America,2022,6.7,2022-01-01
+Bolivia,South America,2023,5.7,2023-01-01
+Bolivia,South America,2024,5.4,2024-01-01
+Bosnia and Herzegovina,Europe,2015,1.2,2015-01-01
+Bosnia and Herzegovina,Europe,2016,0.5,2016-01-01
+Bosnia and Herzegovina,Europe,2017,0.9,2017-01-01
+Bosnia and Herzegovina,Europe,2018,1.5,2018-01-01
+Bosnia and Herzegovina,Europe,2019,0.5,2019-01-01
+Bosnia and Herzegovina,Europe,2020,-0.0,2020-01-01
+Bosnia and Herzegovina,Europe,2021,2.5,2021-01-01
+Bosnia and Herzegovina,Europe,2022,3.3,2022-01-01
+Bosnia and Herzegovina,Europe,2023,2.7,2023-01-01
+Bosnia and Herzegovina,Europe,2024,1.9,2024-01-01
+Botswana,Africa,2015,3.6,2015-01-01
+Botswana,Africa,2016,3.5,2016-01-01
+Botswana,Africa,2017,3.7,2017-01-01
+Botswana,Africa,2018,4.2,2018-01-01
+Botswana,Africa,2019,3.0,2019-01-01
+Botswana,Africa,2020,2.7,2020-01-01
+Botswana,Africa,2021,5.3,2021-01-01
+Botswana,Africa,2022,6.7,2022-01-01
+Botswana,Africa,2023,5.8,2023-01-01
+Botswana,Africa,2024,4.9,2024-01-01
+Brazil,South America,2015,6.9,2015-01-01
+Brazil,South America,2016,5.6,2016-01-01
+Brazil,South America,2017,6.7,2017-01-01
+Brazil,South America,2018,6.8,2018-01-01
+Brazil,South America,2019,6.4,2019-01-01
+Brazil,South America,2020,6.1,2020-01-01
+Brazil,South America,2021,8.7,2021-01-01
+Brazil,South America,2022,10.5,2022-01-01
+Brazil,South America,2023,8.9,2023-01-01
+Brazil,South America,2024,7.7,2024-01-01
+Brunei,Asia,2015,0.4,2015-01-01
+Brunei,Asia,2016,0.3,2016-01-01
+Brunei,Asia,2017,0.7,2017-01-01
+Brunei,Asia,2018,0.6,2018-01-01
+Brunei,Asia,2019,0.5,2019-01-01
+Brunei,Asia,2020,-0.0,2020-01-01
+Brunei,Asia,2021,2.6,2021-01-01
+Brunei,Asia,2022,3.6,2022-01-01
+Brunei,Asia,2023,2.2,2023-01-01
+Brunei,Asia,2024,1.6,2024-01-01
+Bulgaria,Europe,2015,0.8,2015-01-01
+Bulgaria,Europe,2016,0.8,2016-01-01
+Bulgaria,Europe,2017,1.4,2017-01-01
+Bulgaria,Europe,2018,1.9,2018-01-01
+Bulgaria,Europe,2019,1.0,2019-01-01
+Bulgaria,Europe,2020,0.4,2020-01-01
+Bulgaria,Europe,2021,2.2,2021-01-01
+Bulgaria,Europe,2022,3.8,2022-01-01
+Bulgaria,Europe,2023,2.8,2023-01-01
+Bulgaria,Europe,2024,2.2,2024-01-01
+Burkina Faso,Africa,2015,0.8,2015-01-01
+Burkina Faso,Africa,2016,0.7,2016-01-01
+Burkina Faso,Africa,2017,0.7,2017-01-01
+Burkina Faso,Africa,2018,1.0,2018-01-01
+Burkina Faso,Africa,2019,1.5,2019-01-01
+Burkina Faso,Africa,2020,0.1,2020-01-01
+Burkina Faso,Africa,2021,2.2,2021-01-01
+Burkina Faso,Africa,2022,4.1,2022-01-01
+Burkina Faso,Africa,2023,3.6,2023-01-01
+Burkina Faso,Africa,2024,1.8,2024-01-01
+Burundi,Africa,2015,7.8,2015-01-01
+Burundi,Africa,2016,7.8,2016-01-01
+Burundi,Africa,2017,9.0,2017-01-01
+Burundi,Africa,2018,8.0,2018-01-01
+Burundi,Africa,2019,7.9,2019-01-01
+Burundi,Africa,2020,7.6,2020-01-01
+Burundi,Africa,2021,10.2,2021-01-01
+Burundi,Africa,2022,11.3,2022-01-01
+Burundi,Africa,2023,10.4,2023-01-01
+Burundi,Africa,2024,8.8,2024-01-01
+Cabo Verde,Africa,2015,1.4,2015-01-01
+Cabo Verde,Africa,2016,1.1,2016-01-01
+Cabo Verde,Africa,2017,1.7,2017-01-01
+Cabo Verde,Africa,2018,1.7,2018-01-01
+Cabo Verde,Africa,2019,1.6,2019-01-01
+Cabo Verde,Africa,2020,1.2,2020-01-01
+Cabo Verde,Africa,2021,3.0,2021-01-01
+Cabo Verde,Africa,2022,4.2,2022-01-01
+Cabo Verde,Africa,2023,3.4,2023-01-01
+Cabo Verde,Africa,2024,2.6,2024-01-01
+Cambodia,Asia,2015,2.8,2015-01-01
+Cambodia,Asia,2016,2.7,2016-01-01
+Cambodia,Asia,2017,3.2,2017-01-01
+Cambodia,Asia,2018,4.0,2018-01-01
+Cambodia,Asia,2019,3.4,2019-01-01
+Cambodia,Asia,2020,2.3,2020-01-01
+Cambodia,Asia,2021,4.8,2021-01-01
+Cambodia,Asia,2022,6.2,2022-01-01
+Cambodia,Asia,2023,5.8,2023-01-01
+Cambodia,Asia,2024,4.6,2024-01-01
+Cameroon,Africa,2015,2.1,2015-01-01
+Cameroon,Africa,2016,1.3,2016-01-01
+Cameroon,Africa,2017,2.4,2017-01-01
+Cameroon,Africa,2018,2.5,2018-01-01
+Cameroon,Africa,2019,1.7,2019-01-01
+Cameroon,Africa,2020,1.3,2020-01-01
+Cameroon,Africa,2021,3.6,2021-01-01
+Cameroon,Africa,2022,4.6,2022-01-01
+Cameroon,Africa,2023,3.8,2023-01-01
+Cameroon,Africa,2024,3.1,2024-01-01
+Canada,North America,2015,1.7,2015-01-01
+Canada,North America,2016,1.5,2016-01-01
+Canada,North America,2017,2.3,2017-01-01
+Canada,North America,2018,1.5,2018-01-01
+Canada,North America,2019,1.7,2019-01-01
+Canada,North America,2020,1.2,2020-01-01
+Canada,North America,2021,3.4,2021-01-01
+Canada,North America,2022,4.3,2022-01-01
+Canada,North America,2023,3.2,2023-01-01
+Canada,North America,2024,3.0,2024-01-01
+Central African Republic,Africa,2015,3.4,2015-01-01
+Central African Republic,Africa,2016,2.2,2016-01-01
+Central African Republic,Africa,2017,3.4,2017-01-01
+Central African Republic,Africa,2018,3.4,2018-01-01
+Central African Republic,Africa,2019,3.0,2019-01-01
+Central African Republic,Africa,2020,1.9,2020-01-01
+Central African Republic,Africa,2021,4.9,2021-01-01
+Central African Republic,Africa,2022,6.8,2022-01-01
+Central African Republic,Africa,2023,5.6,2023-01-01
+Central African Republic,Africa,2024,4.9,2024-01-01
+Chad,Africa,2015,2.8,2015-01-01
+Chad,Africa,2016,2.3,2016-01-01
+Chad,Africa,2017,3.1,2017-01-01
+Chad,Africa,2018,3.0,2018-01-01
+Chad,Africa,2019,2.7,2019-01-01
+Chad,Africa,2020,1.8,2020-01-01
+Chad,Africa,2021,4.0,2021-01-01
+Chad,Africa,2022,5.0,2022-01-01
+Chad,Africa,2023,4.6,2023-01-01
+Chad,Africa,2024,3.3,2024-01-01
+Chile,South America,2015,3.7,2015-01-01
+Chile,South America,2016,3.1,2016-01-01
+Chile,South America,2017,4.0,2017-01-01
+Chile,South America,2018,4.2,2018-01-01
+Chile,South America,2019,4.0,2019-01-01
+Chile,South America,2020,2.9,2020-01-01
+Chile,South America,2021,5.1,2021-01-01
+Chile,South America,2022,7.0,2022-01-01
+Chile,South America,2023,5.7,2023-01-01
+Chile,South America,2024,4.9,2024-01-01
+China,Asia,2015,2.2,2015-01-01
+China,Asia,2016,1.7,2016-01-01
+China,Asia,2017,1.8,2017-01-01
+China,Asia,2018,1.9,2018-01-01
+China,Asia,2019,1.8,2019-01-01
+China,Asia,2020,0.9,2020-01-01
+China,Asia,2021,3.1,2021-01-01
+China,Asia,2022,4.5,2022-01-01
+China,Asia,2023,4.0,2023-01-01
+China,Asia,2024,3.1,2024-01-01
+Colombia,South America,2015,3.9,2015-01-01
+Colombia,South America,2016,4.2,2016-01-01
+Colombia,South America,2017,4.7,2017-01-01
+Colombia,South America,2018,5.1,2018-01-01
+Colombia,South America,2019,4.9,2019-01-01
+Colombia,South America,2020,3.1,2020-01-01
+Colombia,South America,2021,6.3,2021-01-01
+Colombia,South America,2022,8.2,2022-01-01
+Colombia,South America,2023,6.6,2023-01-01
+Colombia,South America,2024,6.4,2024-01-01
+Comoros,Africa,2015,2.1,2015-01-01
+Comoros,Africa,2016,1.9,2016-01-01
+Comoros,Africa,2017,2.0,2017-01-01
+Comoros,Africa,2018,2.6,2018-01-01
+Comoros,Africa,2019,2.3,2019-01-01
+Comoros,Africa,2020,1.5,2020-01-01
+Comoros,Africa,2021,3.6,2021-01-01
+Comoros,Africa,2022,4.7,2022-01-01
+Comoros,Africa,2023,3.7,2023-01-01
+Comoros,Africa,2024,3.1,2024-01-01
+"Congo, Dem. Rep.",Africa,2015,11.9,2015-01-01
+"Congo, Dem. Rep.",Africa,2016,11.9,2016-01-01
+"Congo, Dem. Rep.",Africa,2017,12.9,2017-01-01
+"Congo, Dem. Rep.",Africa,2018,11.7,2018-01-01
+"Congo, Dem. Rep.",Africa,2019,11.9,2019-01-01
+"Congo, Dem. Rep.",Africa,2020,12.3,2020-01-01
+"Congo, Dem. Rep.",Africa,2021,13.5,2021-01-01
+"Congo, Dem. Rep.",Africa,2022,14.9,2022-01-01
+"Congo, Dem. Rep.",Africa,2023,14.6,2023-01-01
+"Congo, Dem. Rep.",Africa,2024,14.1,2024-01-01
+"Congo, Rep.",Africa,2015,2.5,2015-01-01
+"Congo, Rep.",Africa,2016,2.5,2016-01-01
+"Congo, Rep.",Africa,2017,2.9,2017-01-01
+"Congo, Rep.",Africa,2018,3.1,2018-01-01
+"Congo, Rep.",Africa,2019,2.6,2019-01-01
+"Congo, Rep.",Africa,2020,2.5,2020-01-01
+"Congo, Rep.",Africa,2021,3.9,2021-01-01
+"Congo, Rep.",Africa,2022,4.6,2022-01-01
+"Congo, Rep.",Africa,2023,4.8,2023-01-01
+"Congo, Rep.",Africa,2024,3.5,2024-01-01
+Costa Rica,North America,2015,2.0,2015-01-01
+Costa Rica,North America,2016,2.0,2016-01-01
+Costa Rica,North America,2017,1.7,2017-01-01
+Costa Rica,North America,2018,2.1,2018-01-01
+Costa Rica,North America,2019,1.6,2019-01-01
+Costa Rica,North America,2020,1.2,2020-01-01
+Costa Rica,North America,2021,3.6,2021-01-01
+Costa Rica,North America,2022,4.8,2022-01-01
+Costa Rica,North America,2023,3.9,2023-01-01
+Costa Rica,North America,2024,2.8,2024-01-01
+Cote d'Ivoire,Africa,2015,0.9,2015-01-01
+Cote d'Ivoire,Africa,2016,1.2,2016-01-01
+Cote d'Ivoire,Africa,2017,1.5,2017-01-01
+Cote d'Ivoire,Africa,2018,2.0,2018-01-01
+Cote d'Ivoire,Africa,2019,1.7,2019-01-01
+Cote d'Ivoire,Africa,2020,0.9,2020-01-01
+Cote d'Ivoire,Africa,2021,3.2,2021-01-01
+Cote d'Ivoire,Africa,2022,4.2,2022-01-01
+Cote d'Ivoire,Africa,2023,3.5,2023-01-01
+Cote d'Ivoire,Africa,2024,2.4,2024-01-01
+Croatia,Europe,2015,1.0,2015-01-01
+Croatia,Europe,2016,0.7,2016-01-01
+Croatia,Europe,2017,1.4,2017-01-01
+Croatia,Europe,2018,1.3,2018-01-01
+Croatia,Europe,2019,1.1,2019-01-01
+Croatia,Europe,2020,0.3,2020-01-01
+Croatia,Europe,2021,2.5,2021-01-01
+Croatia,Europe,2022,3.8,2022-01-01
+Croatia,Europe,2023,2.4,2023-01-01
+Croatia,Europe,2024,1.8,2024-01-01
+Cyprus,Europe,2015,0.6,2015-01-01
+Cyprus,Europe,2016,0.1,2016-01-01
+Cyprus,Europe,2017,1.0,2017-01-01
+Cyprus,Europe,2018,1.6,2018-01-01
+Cyprus,Europe,2019,0.9,2019-01-01
+Cyprus,Europe,2020,0.4,2020-01-01
+Cyprus,Europe,2021,2.8,2021-01-01
+Cyprus,Europe,2022,4.0,2022-01-01
+Cyprus,Europe,2023,2.9,2023-01-01
+Cyprus,Europe,2024,2.5,2024-01-01
+Czechia,Europe,2015,2.0,2015-01-01
+Czechia,Europe,2016,1.5,2016-01-01
+Czechia,Europe,2017,2.0,2017-01-01
+Czechia,Europe,2018,2.0,2018-01-01
+Czechia,Europe,2019,1.8,2019-01-01
+Czechia,Europe,2020,1.3,2020-01-01
+Czechia,Europe,2021,3.7,2021-01-01
+Czechia,Europe,2022,5.1,2022-01-01
+Czechia,Europe,2023,3.5,2023-01-01
+Czechia,Europe,2024,3.2,2024-01-01
+Denmark,Europe,2015,1.2,2015-01-01
+Denmark,Europe,2016,1.3,2016-01-01
+Denmark,Europe,2017,1.6,2017-01-01
+Denmark,Europe,2018,1.4,2018-01-01
+Denmark,Europe,2019,1.7,2019-01-01
+Denmark,Europe,2020,0.7,2020-01-01
+Denmark,Europe,2021,2.9,2021-01-01
+Denmark,Europe,2022,3.9,2022-01-01
+Denmark,Europe,2023,3.2,2023-01-01
+Denmark,Europe,2024,2.7,2024-01-01
+Djibouti,Africa,2015,2.5,2015-01-01
+Djibouti,Africa,2016,2.3,2016-01-01
+Djibouti,Africa,2017,2.7,2017-01-01
+Djibouti,Africa,2018,3.2,2018-01-01
+Djibouti,Africa,2019,2.4,2019-01-01
+Djibouti,Africa,2020,1.5,2020-01-01
+Djibouti,Africa,2021,4.3,2021-01-01
+Djibouti,Africa,2022,5.0,2022-01-01
+Djibouti,Africa,2023,4.7,2023-01-01
+Djibouti,Africa,2024,3.7,2024-01-01
+Dominica,North America,2015,1.0,2015-01-01
+Dominica,North America,2016,0.8,2016-01-01
+Dominica,North America,2017,1.6,2017-01-01
+Dominica,North America,2018,1.9,2018-01-01
+Dominica,North America,2019,1.0,2019-01-01
+Dominica,North America,2020,0.4,2020-01-01
+Dominica,North America,2021,2.8,2021-01-01
+Dominica,North America,2022,3.4,2022-01-01
+Dominica,North America,2023,3.0,2023-01-01
+Dominica,North America,2024,2.1,2024-01-01
+Dominican Republic,North America,2015,3.1,2015-01-01
+Dominican Republic,North America,2016,2.4,2016-01-01
+Dominican Republic,North America,2017,2.8,2017-01-01
+Dominican Republic,North America,2018,3.0,2018-01-01
+Dominican Republic,North America,2019,2.7,2019-01-01
+Dominican Republic,North America,2020,2.1,2020-01-01
+Dominican Republic,North America,2021,4.9,2021-01-01
+Dominican Republic,North America,2022,7.0,2022-01-01
+Dominican Republic,North America,2023,5.8,2023-01-01
+Dominican Republic,North America,2024,4.3,2024-01-01
+Ecuador,South America,2015,1.6,2015-01-01
+Ecuador,South America,2016,1.1,2016-01-01
+Ecuador,South America,2017,1.6,2017-01-01
+Ecuador,South America,2018,1.9,2018-01-01
+Ecuador,South America,2019,1.7,2019-01-01
+Ecuador,South America,2020,0.8,2020-01-01
+Ecuador,South America,2021,3.3,2021-01-01
+Ecuador,South America,2022,3.8,2022-01-01
+Ecuador,South America,2023,3.4,2023-01-01
+Ecuador,South America,2024,3.3,2024-01-01
+Egypt,Africa,2015,10.1,2015-01-01
+Egypt,Africa,2016,10.5,2016-01-01
+Egypt,Africa,2017,10.3,2017-01-01
+Egypt,Africa,2018,10.8,2018-01-01
+Egypt,Africa,2019,10.0,2019-01-01
+Egypt,Africa,2020,9.1,2020-01-01
+Egypt,Africa,2021,11.5,2021-01-01
+Egypt,Africa,2022,13.8,2022-01-01
+Egypt,Africa,2023,12.0,2023-01-01
+Egypt,Africa,2024,11.9,2024-01-01
+El Salvador,North America,2015,1.8,2015-01-01
+El Salvador,North America,2016,1.3,2016-01-01
+El Salvador,North America,2017,1.6,2017-01-01
+El Salvador,North America,2018,2.0,2018-01-01
+El Salvador,North America,2019,1.4,2019-01-01
+El Salvador,North America,2020,1.1,2020-01-01
+El Salvador,North America,2021,2.5,2021-01-01
+El Salvador,North America,2022,4.0,2022-01-01
+El Salvador,North America,2023,2.9,2023-01-01
+El Salvador,North America,2024,2.3,2024-01-01
+Equatorial Guinea,Africa,2015,3.3,2015-01-01
+Equatorial Guinea,Africa,2016,2.8,2016-01-01
+Equatorial Guinea,Africa,2017,3.0,2017-01-01
+Equatorial Guinea,Africa,2018,3.1,2018-01-01
+Equatorial Guinea,Africa,2019,2.3,2019-01-01
+Equatorial Guinea,Africa,2020,2.1,2020-01-01
+Equatorial Guinea,Africa,2021,5.6,2021-01-01
+Equatorial Guinea,Africa,2022,6.6,2022-01-01
+Equatorial Guinea,Africa,2023,5.4,2023-01-01
+Equatorial Guinea,Africa,2024,4.6,2024-01-01
+Eritrea,Africa,2015,10.9,2015-01-01
+Eritrea,Africa,2016,11.4,2016-01-01
+Eritrea,Africa,2017,12.3,2017-01-01
+Eritrea,Africa,2018,12.4,2018-01-01
+Eritrea,Africa,2019,12.6,2019-01-01
+Eritrea,Africa,2020,11.4,2020-01-01
+Eritrea,Africa,2021,14.5,2021-01-01
+Eritrea,Africa,2022,15.0,2022-01-01
+Eritrea,Africa,2023,15.1,2023-01-01
+Eritrea,Africa,2024,14.7,2024-01-01
+Estonia,Europe,2015,2.8,2015-01-01
+Estonia,Europe,2016,2.4,2016-01-01
+Estonia,Europe,2017,3.5,2017-01-01
+Estonia,Europe,2018,3.5,2018-01-01
+Estonia,Europe,2019,3.4,2019-01-01
+Estonia,Europe,2020,2.1,2020-01-01
+Estonia,Europe,2021,5.4,2021-01-01
+Estonia,Europe,2022,6.5,2022-01-01
+Estonia,Europe,2023,5.6,2023-01-01
+Estonia,Europe,2024,4.9,2024-01-01
+Eswatini,Africa,2015,4.9,2015-01-01
+Eswatini,Africa,2016,4.3,2016-01-01
+Eswatini,Africa,2017,5.1,2017-01-01
+Eswatini,Africa,2018,5.6,2018-01-01
+Eswatini,Africa,2019,4.5,2019-01-01
+Eswatini,Africa,2020,4.4,2020-01-01
+Eswatini,Africa,2021,6.8,2021-01-01
+Eswatini,Africa,2022,8.8,2022-01-01
+Eswatini,Africa,2023,6.8,2023-01-01
+Eswatini,Africa,2024,6.3,2024-01-01
+Ethiopia,Africa,2015,9.0,2015-01-01
+Ethiopia,Africa,2016,9.1,2016-01-01
+Ethiopia,Africa,2017,10.3,2017-01-01
+Ethiopia,Africa,2018,10.4,2018-01-01
+Ethiopia,Africa,2019,9.8,2019-01-01
+Ethiopia,Africa,2020,9.1,2020-01-01
+Ethiopia,Africa,2021,12.1,2021-01-01
+Ethiopia,Africa,2022,12.9,2022-01-01
+Ethiopia,Africa,2023,12.9,2023-01-01
+Ethiopia,Africa,2024,11.9,2024-01-01
+Fiji,Oceania,2015,3.1,2015-01-01
+Fiji,Oceania,2016,2.7,2016-01-01
+Fiji,Oceania,2017,3.3,2017-01-01
+Fiji,Oceania,2018,4.0,2018-01-01
+Fiji,Oceania,2019,3.0,2019-01-01
+Fiji,Oceania,2020,2.1,2020-01-01
+Fiji,Oceania,2021,4.8,2021-01-01
+Fiji,Oceania,2022,6.2,2022-01-01
+Fiji,Oceania,2023,5.2,2023-01-01
+Fiji,Oceania,2024,4.3,2024-01-01
+Finland,Europe,2015,1.0,2015-01-01
+Finland,Europe,2016,0.8,2016-01-01
+Finland,Europe,2017,1.2,2017-01-01
+Finland,Europe,2018,1.2,2018-01-01
+Finland,Europe,2019,1.2,2019-01-01
+Finland,Europe,2020,0.6,2020-01-01
+Finland,Europe,2021,2.5,2021-01-01
+Finland,Europe,2022,3.5,2022-01-01
+Finland,Europe,2023,3.0,2023-01-01
+Finland,Europe,2024,2.2,2024-01-01
+France,Europe,2015,0.8,2015-01-01
+France,Europe,2016,0.9,2016-01-01
+France,Europe,2017,1.4,2017-01-01
+France,Europe,2018,1.4,2018-01-01
+France,Europe,2019,1.2,2019-01-01
+France,Europe,2020,0.2,2020-01-01
+France,Europe,2021,3.0,2021-01-01
+France,Europe,2022,4.1,2022-01-01
+France,Europe,2023,3.0,2023-01-01
+France,Europe,2024,2.4,2024-01-01
+Gabon,Africa,2015,1.9,2015-01-01
+Gabon,Africa,2016,1.9,2016-01-01
+Gabon,Africa,2017,2.6,2017-01-01
+Gabon,Africa,2018,2.6,2018-01-01
+Gabon,Africa,2019,2.7,2019-01-01
+Gabon,Africa,2020,2.4,2020-01-01
+Gabon,Africa,2021,3.7,2021-01-01
+Gabon,Africa,2022,4.9,2022-01-01
+Gabon,Africa,2023,4.4,2023-01-01
+Gabon,Africa,2024,4.0,2024-01-01
+Gambia,Africa,2015,5.6,2015-01-01
+Gambia,Africa,2016,5.7,2016-01-01
+Gambia,Africa,2017,6.9,2017-01-01
+Gambia,Africa,2018,5.9,2018-01-01
+Gambia,Africa,2019,5.5,2019-01-01
+Gambia,Africa,2020,5.0,2020-01-01
+Gambia,Africa,2021,7.8,2021-01-01
+Gambia,Africa,2022,9.8,2022-01-01
+Gambia,Africa,2023,8.6,2023-01-01
+Gambia,Africa,2024,6.9,2024-01-01
+Georgia,Asia,2015,3.1,2015-01-01
+Georgia,Asia,2016,2.5,2016-01-01
+Georgia,Asia,2017,3.5,2017-01-01
+Georgia,Asia,2018,3.3,2018-01-01
+Georgia,Asia,2019,2.8,2019-01-01
+Georgia,Asia,2020,2.3,2020-01-01
+Georgia,Asia,2021,5.2,2021-01-01
+Georgia,Asia,2022,6.6,2022-01-01
+Georgia,Asia,2023,5.1,2023-01-01
+Georgia,Asia,2024,4.6,2024-01-01
+Germany,Europe,2015,0.9,2015-01-01
+Germany,Europe,2016,1.0,2016-01-01
+Germany,Europe,2017,1.0,2017-01-01
+Germany,Europe,2018,1.7,2018-01-01
+Germany,Europe,2019,1.0,2019-01-01
+Germany,Europe,2020,0.3,2020-01-01
+Germany,Europe,2021,2.9,2021-01-01
+Germany,Europe,2022,3.9,2022-01-01
+Germany,Europe,2023,2.9,2023-01-01
+Germany,Europe,2024,2.7,2024-01-01
+Ghana,Africa,2015,9.7,2015-01-01
+Ghana,Africa,2016,9.6,2016-01-01
+Ghana,Africa,2017,10.4,2017-01-01
+Ghana,Africa,2018,10.1,2018-01-01
+Ghana,Africa,2019,10.3,2019-01-01
+Ghana,Africa,2020,8.9,2020-01-01
+Ghana,Africa,2021,11.8,2021-01-01
+Ghana,Africa,2022,14.3,2022-01-01
+Ghana,Africa,2023,11.9,2023-01-01
+Ghana,Africa,2024,10.1,2024-01-01
+Greece,Europe,2015,1.4,2015-01-01
+Greece,Europe,2016,1.3,2016-01-01
+Greece,Europe,2017,1.0,2017-01-01
+Greece,Europe,2018,0.9,2018-01-01
+Greece,Europe,2019,0.9,2019-01-01
+Greece,Europe,2020,0.3,2020-01-01
+Greece,Europe,2021,2.5,2021-01-01
+Greece,Europe,2022,3.3,2022-01-01
+Greece,Europe,2023,3.0,2023-01-01
+Greece,Europe,2024,2.3,2024-01-01
+Grenada,North America,2015,1.1,2015-01-01
+Grenada,North America,2016,1.4,2016-01-01
+Grenada,North America,2017,2.2,2017-01-01
+Grenada,North America,2018,1.9,2018-01-01
+Grenada,North America,2019,1.4,2019-01-01
+Grenada,North America,2020,0.9,2020-01-01
+Grenada,North America,2021,3.2,2021-01-01
+Grenada,North America,2022,3.7,2022-01-01
+Grenada,North America,2023,3.4,2023-01-01
+Grenada,North America,2024,2.5,2024-01-01
+Guatemala,North America,2015,4.0,2015-01-01
+Guatemala,North America,2016,3.1,2016-01-01
+Guatemala,North America,2017,4.1,2017-01-01
+Guatemala,North America,2018,3.7,2018-01-01
+Guatemala,North America,2019,3.6,2019-01-01
+Guatemala,North America,2020,2.8,2020-01-01
+Guatemala,North America,2021,5.3,2021-01-01
+Guatemala,North America,2022,7.0,2022-01-01
+Guatemala,North America,2023,6.3,2023-01-01
+Guatemala,North America,2024,4.9,2024-01-01
+Guinea,Africa,2015,9.0,2015-01-01
+Guinea,Africa,2016,9.6,2016-01-01
+Guinea,Africa,2017,9.7,2017-01-01
+Guinea,Africa,2018,10.3,2018-01-01
+Guinea,Africa,2019,10.0,2019-01-01
+Guinea,Africa,2020,8.2,2020-01-01
+Guinea,Africa,2021,11.0,2021-01-01
+Guinea,Africa,2022,13.8,2022-01-01
+Guinea,Africa,2023,12.2,2023-01-01
+Guinea,Africa,2024,10.0,2024-01-01
+Guinea-Bissau,Africa,2015,2.2,2015-01-01
+Guinea-Bissau,Africa,2016,1.8,2016-01-01
+Guinea-Bissau,Africa,2017,2.0,2017-01-01
+Guinea-Bissau,Africa,2018,2.0,2018-01-01
+Guinea-Bissau,Africa,2019,2.2,2019-01-01
+Guinea-Bissau,Africa,2020,1.5,2020-01-01
+Guinea-Bissau,Africa,2021,4.1,2021-01-01
+Guinea-Bissau,Africa,2022,4.7,2022-01-01
+Guinea-Bissau,Africa,2023,4.0,2023-01-01
+Guinea-Bissau,Africa,2024,3.1,2024-01-01
+Guyana,South America,2015,2.7,2015-01-01
+Guyana,South America,2016,2.4,2016-01-01
+Guyana,South America,2017,3.0,2017-01-01
+Guyana,South America,2018,2.7,2018-01-01
+Guyana,South America,2019,2.4,2019-01-01
+Guyana,South America,2020,1.8,2020-01-01
+Guyana,South America,2021,4.2,2021-01-01
+Guyana,South America,2022,5.5,2022-01-01
+Guyana,South America,2023,4.3,2023-01-01
+Guyana,South America,2024,3.5,2024-01-01
+Haiti,North America,2015,15.3,2015-01-01
+Haiti,North America,2016,14.4,2016-01-01
+Haiti,North America,2017,16.1,2017-01-01
+Haiti,North America,2018,13.5,2018-01-01
+Haiti,North America,2019,14.3,2019-01-01
+Haiti,North America,2020,13.5,2020-01-01
+Haiti,North America,2021,14.9,2021-01-01
+Haiti,North America,2022,17.6,2022-01-01
+Haiti,North America,2023,16.7,2023-01-01
+Haiti,North America,2024,16.3,2024-01-01
+Honduras,North America,2015,4.3,2015-01-01
+Honduras,North America,2016,3.5,2016-01-01
+Honduras,North America,2017,3.9,2017-01-01
+Honduras,North America,2018,4.5,2018-01-01
+Honduras,North America,2019,4.3,2019-01-01
+Honduras,North America,2020,3.0,2020-01-01
+Honduras,North America,2021,5.8,2021-01-01
+Honduras,North America,2022,7.6,2022-01-01
+Honduras,North America,2023,6.4,2023-01-01
+Honduras,North America,2024,5.7,2024-01-01
+Hungary,Europe,2015,3.0,2015-01-01
+Hungary,Europe,2016,2.8,2016-01-01
+Hungary,Europe,2017,2.9,2017-01-01
+Hungary,Europe,2018,3.5,2018-01-01
+Hungary,Europe,2019,2.9,2019-01-01
+Hungary,Europe,2020,1.9,2020-01-01
+Hungary,Europe,2021,4.6,2021-01-01
+Hungary,Europe,2022,6.7,2022-01-01
+Hungary,Europe,2023,5.4,2023-01-01
+Hungary,Europe,2024,4.2,2024-01-01
+Iceland,Europe,2015,2.0,2015-01-01
+Iceland,Europe,2016,2.0,2016-01-01
+Iceland,Europe,2017,1.6,2017-01-01
+Iceland,Europe,2018,2.0,2018-01-01
+Iceland,Europe,2019,1.8,2019-01-01
+Iceland,Europe,2020,1.8,2020-01-01
+Iceland,Europe,2021,3.6,2021-01-01
+Iceland,Europe,2022,4.8,2022-01-01
+Iceland,Europe,2023,3.6,2023-01-01
+Iceland,Europe,2024,2.8,2024-01-01
+India,Asia,2015,4.6,2015-01-01
+India,Asia,2016,4.1,2016-01-01
+India,Asia,2017,4.8,2017-01-01
+India,Asia,2018,4.9,2018-01-01
+India,Asia,2019,4.6,2019-01-01
+India,Asia,2020,3.7,2020-01-01
+India,Asia,2021,6.7,2021-01-01
+India,Asia,2022,8.2,2022-01-01
+India,Asia,2023,6.6,2023-01-01
+India,Asia,2024,5.4,2024-01-01
+Indonesia,Asia,2015,3.8,2015-01-01
+Indonesia,Asia,2016,3.4,2016-01-01
+Indonesia,Asia,2017,3.4,2017-01-01
+Indonesia,Asia,2018,3.5,2018-01-01
+Indonesia,Asia,2019,3.5,2019-01-01
+Indonesia,Asia,2020,2.9,2020-01-01
+Indonesia,Asia,2021,5.9,2021-01-01
+Indonesia,Asia,2022,7.1,2022-01-01
+Indonesia,Asia,2023,5.9,2023-01-01
+Indonesia,Asia,2024,4.8,2024-01-01
+Iran,Asia,2015,18.0,2015-01-01
+Iran,Asia,2016,17.3,2016-01-01
+Iran,Asia,2017,17.1,2017-01-01
+Iran,Asia,2018,20.7,2018-01-01
+Iran,Asia,2019,19.9,2019-01-01
+Iran,Asia,2020,18.4,2020-01-01
+Iran,Asia,2021,19.0,2021-01-01
+Iran,Asia,2022,22.4,2022-01-01
+Iran,Asia,2023,21.2,2023-01-01
+Iran,Asia,2024,20.0,2024-01-01
+Iraq,Asia,2015,2.3,2015-01-01
+Iraq,Asia,2016,1.9,2016-01-01
+Iraq,Asia,2017,2.3,2017-01-01
+Iraq,Asia,2018,2.5,2018-01-01
+Iraq,Asia,2019,2.1,2019-01-01
+Iraq,Asia,2020,1.0,2020-01-01
+Iraq,Asia,2021,3.5,2021-01-01
+Iraq,Asia,2022,4.5,2022-01-01
+Iraq,Asia,2023,3.6,2023-01-01
+Iraq,Asia,2024,3.5,2024-01-01
+Ireland,Europe,2015,1.4,2015-01-01
+Ireland,Europe,2016,1.0,2016-01-01
+Ireland,Europe,2017,1.2,2017-01-01
+Ireland,Europe,2018,1.7,2018-01-01
+Ireland,Europe,2019,1.0,2019-01-01
+Ireland,Europe,2020,0.5,2020-01-01
+Ireland,Europe,2021,2.2,2021-01-01
+Ireland,Europe,2022,3.7,2022-01-01
+Ireland,Europe,2023,2.9,2023-01-01
+Ireland,Europe,2024,1.8,2024-01-01
+Israel,Asia,2015,1.0,2015-01-01
+Israel,Asia,2016,0.7,2016-01-01
+Israel,Asia,2017,1.6,2017-01-01
+Israel,Asia,2018,1.6,2018-01-01
+Israel,Asia,2019,1.0,2019-01-01
+Israel,Asia,2020,0.5,2020-01-01
+Israel,Asia,2021,2.5,2021-01-01
+Israel,Asia,2022,3.6,2022-01-01
+Israel,Asia,2023,2.6,2023-01-01
+Israel,Asia,2024,2.1,2024-01-01
+Italy,Europe,2015,1.0,2015-01-01
+Italy,Europe,2016,0.6,2016-01-01
+Italy,Europe,2017,1.5,2017-01-01
+Italy,Europe,2018,1.7,2018-01-01
+Italy,Europe,2019,0.8,2019-01-01
+Italy,Europe,2020,0.6,2020-01-01
+Italy,Europe,2021,2.9,2021-01-01
+Italy,Europe,2022,4.1,2022-01-01
+Italy,Europe,2023,3.3,2023-01-01
+Italy,Europe,2024,2.3,2024-01-01
+Jamaica,North America,2015,4.7,2015-01-01
+Jamaica,North America,2016,4.3,2016-01-01
+Jamaica,North America,2017,5.3,2017-01-01
+Jamaica,North America,2018,5.6,2018-01-01
+Jamaica,North America,2019,5.4,2019-01-01
+Jamaica,North America,2020,4.5,2020-01-01
+Jamaica,North America,2021,7.0,2021-01-01
+Jamaica,North America,2022,8.1,2022-01-01
+Jamaica,North America,2023,7.4,2023-01-01
+Jamaica,North America,2024,6.6,2024-01-01
+Japan,Asia,2015,0.4,2015-01-01
+Japan,Asia,2016,0.1,2016-01-01
+Japan,Asia,2017,0.7,2017-01-01
+Japan,Asia,2018,0.7,2018-01-01
+Japan,Asia,2019,0.3,2019-01-01
+Japan,Asia,2020,-0.0,2020-01-01
+Japan,Asia,2021,1.9,2021-01-01
+Japan,Asia,2022,3.2,2022-01-01
+Japan,Asia,2023,2.4,2023-01-01
+Japan,Asia,2024,1.3,2024-01-01
+Jordan,Asia,2015,1.4,2015-01-01
+Jordan,Asia,2016,1.6,2016-01-01
+Jordan,Asia,2017,1.4,2017-01-01
+Jordan,Asia,2018,1.3,2018-01-01
+Jordan,Asia,2019,1.0,2019-01-01
+Jordan,Asia,2020,0.9,2020-01-01
+Jordan,Asia,2021,3.0,2021-01-01
+Jordan,Asia,2022,4.1,2022-01-01
+Jordan,Asia,2023,3.7,2023-01-01
+Jordan,Asia,2024,2.0,2024-01-01
+Kazakhstan,Asia,2015,7.2,2015-01-01
+Kazakhstan,Asia,2016,7.3,2016-01-01
+Kazakhstan,Asia,2017,6.7,2017-01-01
+Kazakhstan,Asia,2018,7.3,2018-01-01
+Kazakhstan,Asia,2019,6.7,2019-01-01
+Kazakhstan,Asia,2020,5.8,2020-01-01
+Kazakhstan,Asia,2021,8.9,2021-01-01
+Kazakhstan,Asia,2022,11.1,2022-01-01
+Kazakhstan,Asia,2023,10.3,2023-01-01
+Kazakhstan,Asia,2024,8.4,2024-01-01
+Kenya,Africa,2015,6.7,2015-01-01
+Kenya,Africa,2016,5.6,2016-01-01
+Kenya,Africa,2017,6.8,2017-01-01
+Kenya,Africa,2018,6.5,2018-01-01
+Kenya,Africa,2019,6.0,2019-01-01
+Kenya,Africa,2020,5.3,2020-01-01
+Kenya,Africa,2021,9.1,2021-01-01
+Kenya,Africa,2022,9.8,2022-01-01
+Kenya,Africa,2023,8.2,2023-01-01
+Kenya,Africa,2024,7.8,2024-01-01
+Kiribati,Oceania,2015,1.9,2015-01-01
+Kiribati,Oceania,2016,1.6,2016-01-01
+Kiribati,Oceania,2017,2.4,2017-01-01
+Kiribati,Oceania,2018,2.4,2018-01-01
+Kiribati,Oceania,2019,2.1,2019-01-01
+Kiribati,Oceania,2020,1.4,2020-01-01
+Kiribati,Oceania,2021,3.6,2021-01-01
+Kiribati,Oceania,2022,4.7,2022-01-01
+Kiribati,Oceania,2023,3.4,2023-01-01
+Kiribati,Oceania,2024,3.3,2024-01-01
+Kuwait,Asia,2015,1.8,2015-01-01
+Kuwait,Asia,2016,1.3,2016-01-01
+Kuwait,Asia,2017,2.1,2017-01-01
+Kuwait,Asia,2018,2.4,2018-01-01
+Kuwait,Asia,2019,1.8,2019-01-01
+Kuwait,Asia,2020,1.6,2020-01-01
+Kuwait,Asia,2021,3.2,2021-01-01
+Kuwait,Asia,2022,4.5,2022-01-01
+Kuwait,Asia,2023,3.7,2023-01-01
+Kuwait,Asia,2024,3.1,2024-01-01
+Kyrgyzstan,Asia,2015,5.1,2015-01-01
+Kyrgyzstan,Asia,2016,4.3,2016-01-01
+Kyrgyzstan,Asia,2017,5.4,2017-01-01
+Kyrgyzstan,Asia,2018,5.5,2018-01-01
+Kyrgyzstan,Asia,2019,4.4,2019-01-01
+Kyrgyzstan,Asia,2020,3.6,2020-01-01
+Kyrgyzstan,Asia,2021,7.0,2021-01-01
+Kyrgyzstan,Asia,2022,8.4,2022-01-01
+Kyrgyzstan,Asia,2023,7.5,2023-01-01
+Kyrgyzstan,Asia,2024,6.5,2024-01-01
+Laos,Asia,2015,5.1,2015-01-01
+Laos,Asia,2016,4.9,2016-01-01
+Laos,Asia,2017,4.9,2017-01-01
+Laos,Asia,2018,5.1,2018-01-01
+Laos,Asia,2019,4.7,2019-01-01
+Laos,Asia,2020,4.3,2020-01-01
+Laos,Asia,2021,7.4,2021-01-01
+Laos,Asia,2022,8.4,2022-01-01
+Laos,Asia,2023,6.7,2023-01-01
+Laos,Asia,2024,6.0,2024-01-01
+Latvia,Europe,2015,1.8,2015-01-01
+Latvia,Europe,2016,1.6,2016-01-01
+Latvia,Europe,2017,2.0,2017-01-01
+Latvia,Europe,2018,2.4,2018-01-01
+Latvia,Europe,2019,1.9,2019-01-01
+Latvia,Europe,2020,1.7,2020-01-01
+Latvia,Europe,2021,3.3,2021-01-01
+Latvia,Europe,2022,4.4,2022-01-01
+Latvia,Europe,2023,4.0,2023-01-01
+Latvia,Europe,2024,2.7,2024-01-01
+Lebanon,Asia,2015,15.4,2015-01-01
+Lebanon,Asia,2016,14.7,2016-01-01
+Lebanon,Asia,2017,15.1,2017-01-01
+Lebanon,Asia,2018,16.9,2018-01-01
+Lebanon,Asia,2019,14.4,2019-01-01
+Lebanon,Asia,2020,16.1,2020-01-01
+Lebanon,Asia,2021,16.8,2021-01-01
+Lebanon,Asia,2022,17.4,2022-01-01
+Lebanon,Asia,2023,17.6,2023-01-01
+Lebanon,Asia,2024,15.5,2024-01-01
+Lesotho,Africa,2015,4.8,2015-01-01
+Lesotho,Africa,2016,4.7,2016-01-01
+Lesotho,Africa,2017,5.4,2017-01-01
+Lesotho,Africa,2018,5.3,2018-01-01
+Lesotho,Africa,2019,5.3,2019-01-01
+Lesotho,Africa,2020,4.5,2020-01-01
+Lesotho,Africa,2021,7.4,2021-01-01
+Lesotho,Africa,2022,8.7,2022-01-01
+Lesotho,Africa,2023,7.9,2023-01-01
+Lesotho,Africa,2024,5.9,2024-01-01
+Liberia,Africa,2015,7.8,2015-01-01
+Liberia,Africa,2016,7.2,2016-01-01
+Liberia,Africa,2017,8.3,2017-01-01
+Liberia,Africa,2018,8.2,2018-01-01
+Liberia,Africa,2019,7.9,2019-01-01
+Liberia,Africa,2020,8.1,2020-01-01
+Liberia,Africa,2021,9.9,2021-01-01
+Liberia,Africa,2022,11.7,2022-01-01
+Liberia,Africa,2023,10.4,2023-01-01
+Liberia,Africa,2024,9.5,2024-01-01
+Libya,Africa,2015,5.0,2015-01-01
+Libya,Africa,2016,4.7,2016-01-01
+Libya,Africa,2017,5.5,2017-01-01
+Libya,Africa,2018,6.0,2018-01-01
+Libya,Africa,2019,5.1,2019-01-01
+Libya,Africa,2020,4.4,2020-01-01
+Libya,Africa,2021,6.7,2021-01-01
+Libya,Africa,2022,8.5,2022-01-01
+Libya,Africa,2023,7.8,2023-01-01
+Libya,Africa,2024,6.8,2024-01-01
+Lithuania,Europe,2015,2.1,2015-01-01
+Lithuania,Europe,2016,1.9,2016-01-01
+Lithuania,Europe,2017,2.3,2017-01-01
+Lithuania,Europe,2018,2.7,2018-01-01
+Lithuania,Europe,2019,2.1,2019-01-01
+Lithuania,Europe,2020,1.3,2020-01-01
+Lithuania,Europe,2021,3.6,2021-01-01
+Lithuania,Europe,2022,3.9,2022-01-01
+Lithuania,Europe,2023,4.0,2023-01-01
+Lithuania,Europe,2024,2.2,2024-01-01
+Luxembourg,Europe,2015,1.1,2015-01-01
+Luxembourg,Europe,2016,1.3,2016-01-01
+Luxembourg,Europe,2017,1.8,2017-01-01
+Luxembourg,Europe,2018,1.6,2018-01-01
+Luxembourg,Europe,2019,1.3,2019-01-01
+Luxembourg,Europe,2020,1.2,2020-01-01
+Luxembourg,Europe,2021,2.9,2021-01-01
+Luxembourg,Europe,2022,4.7,2022-01-01
+Luxembourg,Europe,2023,3.4,2023-01-01
+Luxembourg,Europe,2024,2.7,2024-01-01
+Madagascar,Africa,2015,7.7,2015-01-01
+Madagascar,Africa,2016,6.7,2016-01-01
+Madagascar,Africa,2017,6.8,2017-01-01
+Madagascar,Africa,2018,7.5,2018-01-01
+Madagascar,Africa,2019,7.0,2019-01-01
+Madagascar,Africa,2020,5.6,2020-01-01
+Madagascar,Africa,2021,8.9,2021-01-01
+Madagascar,Africa,2022,10.2,2022-01-01
+Madagascar,Africa,2023,9.9,2023-01-01
+Madagascar,Africa,2024,8.5,2024-01-01
+Malawi,Africa,2015,11.8,2015-01-01
+Malawi,Africa,2016,11.5,2016-01-01
+Malawi,Africa,2017,12.4,2017-01-01
+Malawi,Africa,2018,12.9,2018-01-01
+Malawi,Africa,2019,11.3,2019-01-01
+Malawi,Africa,2020,10.5,2020-01-01
+Malawi,Africa,2021,14.8,2021-01-01
+Malawi,Africa,2022,15.2,2022-01-01
+Malawi,Africa,2023,13.5,2023-01-01
+Malawi,Africa,2024,13.8,2024-01-01
+Malaysia,Asia,2015,2.1,2015-01-01
+Malaysia,Asia,2016,1.3,2016-01-01
+Malaysia,Asia,2017,2.2,2017-01-01
+Malaysia,Asia,2018,2.6,2018-01-01
+Malaysia,Asia,2019,2.1,2019-01-01
+Malaysia,Asia,2020,1.6,2020-01-01
+Malaysia,Asia,2021,3.1,2021-01-01
+Malaysia,Asia,2022,4.7,2022-01-01
+Malaysia,Asia,2023,3.8,2023-01-01
+Malaysia,Asia,2024,3.0,2024-01-01
+Maldives,Asia,2015,2.7,2015-01-01
+Maldives,Asia,2016,2.6,2016-01-01
+Maldives,Asia,2017,3.1,2017-01-01
+Maldives,Asia,2018,3.2,2018-01-01
+Maldives,Asia,2019,2.5,2019-01-01
+Maldives,Asia,2020,2.0,2020-01-01
+Maldives,Asia,2021,4.2,2021-01-01
+Maldives,Asia,2022,5.2,2022-01-01
+Maldives,Asia,2023,4.4,2023-01-01
+Maldives,Asia,2024,3.8,2024-01-01
+Mali,Africa,2015,2.0,2015-01-01
+Mali,Africa,2016,1.5,2016-01-01
+Mali,Africa,2017,2.0,2017-01-01
+Mali,Africa,2018,2.5,2018-01-01
+Mali,Africa,2019,2.0,2019-01-01
+Mali,Africa,2020,1.5,2020-01-01
+Mali,Africa,2021,3.7,2021-01-01
+Mali,Africa,2022,4.5,2022-01-01
+Mali,Africa,2023,4.1,2023-01-01
+Mali,Africa,2024,3.2,2024-01-01
+Malta,Europe,2015,1.7,2015-01-01
+Malta,Europe,2016,2.1,2016-01-01
+Malta,Europe,2017,2.0,2017-01-01
+Malta,Europe,2018,2.0,2018-01-01
+Malta,Europe,2019,1.7,2019-01-01
+Malta,Europe,2020,1.1,2020-01-01
+Malta,Europe,2021,3.5,2021-01-01
+Malta,Europe,2022,4.6,2022-01-01
+Malta,Europe,2023,3.8,2023-01-01
+Malta,Europe,2024,3.3,2024-01-01
+Marshall Islands,Oceania,2015,3.1,2015-01-01
+Marshall Islands,Oceania,2016,2.7,2016-01-01
+Marshall Islands,Oceania,2017,3.3,2017-01-01
+Marshall Islands,Oceania,2018,3.7,2018-01-01
+Marshall Islands,Oceania,2019,2.5,2019-01-01
+Marshall Islands,Oceania,2020,2.1,2020-01-01
+Marshall Islands,Oceania,2021,4.5,2021-01-01
+Marshall Islands,Oceania,2022,6.5,2022-01-01
+Marshall Islands,Oceania,2023,5.5,2023-01-01
+Marshall Islands,Oceania,2024,4.8,2024-01-01
+Mauritania,Africa,2015,3.3,2015-01-01
+Mauritania,Africa,2016,2.7,2016-01-01
+Mauritania,Africa,2017,3.1,2017-01-01
+Mauritania,Africa,2018,3.6,2018-01-01
+Mauritania,Africa,2019,2.9,2019-01-01
+Mauritania,Africa,2020,2.2,2020-01-01
+Mauritania,Africa,2021,5.2,2021-01-01
+Mauritania,Africa,2022,6.4,2022-01-01
+Mauritania,Africa,2023,5.7,2023-01-01
+Mauritania,Africa,2024,4.7,2024-01-01
+Mauritius,Africa,2015,2.3,2015-01-01
+Mauritius,Africa,2016,2.4,2016-01-01
+Mauritius,Africa,2017,2.8,2017-01-01
+Mauritius,Africa,2018,2.9,2018-01-01
+Mauritius,Africa,2019,2.3,2019-01-01
+Mauritius,Africa,2020,1.7,2020-01-01
+Mauritius,Africa,2021,3.9,2021-01-01
+Mauritius,Africa,2022,5.3,2022-01-01
+Mauritius,Africa,2023,4.1,2023-01-01
+Mauritius,Africa,2024,3.7,2024-01-01
+Mexico,North America,2015,3.7,2015-01-01
+Mexico,North America,2016,3.5,2016-01-01
+Mexico,North America,2017,4.2,2017-01-01
+Mexico,North America,2018,5.1,2018-01-01
+Mexico,North America,2019,3.7,2019-01-01
+Mexico,North America,2020,3.6,2020-01-01
+Mexico,North America,2021,6.0,2021-01-01
+Mexico,North America,2022,7.6,2022-01-01
+Mexico,North America,2023,6.5,2023-01-01
+Mexico,North America,2024,5.6,2024-01-01
+Micronesia,Oceania,2015,1.5,2015-01-01
+Micronesia,Oceania,2016,1.6,2016-01-01
+Micronesia,Oceania,2017,1.5,2017-01-01
+Micronesia,Oceania,2018,2.2,2018-01-01
+Micronesia,Oceania,2019,1.3,2019-01-01
+Micronesia,Oceania,2020,0.9,2020-01-01
+Micronesia,Oceania,2021,2.7,2021-01-01
+Micronesia,Oceania,2022,4.2,2022-01-01
+Micronesia,Oceania,2023,3.7,2023-01-01
+Micronesia,Oceania,2024,2.6,2024-01-01
+Moldova,Europe,2015,5.9,2015-01-01
+Moldova,Europe,2016,5.2,2016-01-01
+Moldova,Europe,2017,6.1,2017-01-01
+Moldova,Europe,2018,5.9,2018-01-01
+Moldova,Europe,2019,5.7,2019-01-01
+Moldova,Europe,2020,5.3,2020-01-01
+Moldova,Europe,2021,8.5,2021-01-01
+Moldova,Europe,2022,10.5,2022-01-01
+Moldova,Europe,2023,8.3,2023-01-01
+Moldova,Europe,2024,8.0,2024-01-01
+Mongolia,Asia,2015,7.1,2015-01-01
+Mongolia,Asia,2016,6.5,2016-01-01
+Mongolia,Asia,2017,7.4,2017-01-01
+Mongolia,Asia,2018,7.5,2018-01-01
+Mongolia,Asia,2019,7.0,2019-01-01
+Mongolia,Asia,2020,6.0,2020-01-01
+Mongolia,Asia,2021,8.4,2021-01-01
+Mongolia,Asia,2022,9.9,2022-01-01
+Mongolia,Asia,2023,9.8,2023-01-01
+Mongolia,Asia,2024,8.4,2024-01-01
+Montenegro,Europe,2015,1.4,2015-01-01
+Montenegro,Europe,2016,1.2,2016-01-01
+Montenegro,Europe,2017,1.8,2017-01-01
+Montenegro,Europe,2018,1.9,2018-01-01
+Montenegro,Europe,2019,1.3,2019-01-01
+Montenegro,Europe,2020,1.2,2020-01-01
+Montenegro,Europe,2021,3.4,2021-01-01
+Montenegro,Europe,2022,4.2,2022-01-01
+Montenegro,Europe,2023,3.6,2023-01-01
+Montenegro,Europe,2024,2.9,2024-01-01
+Morocco,Africa,2015,1.8,2015-01-01
+Morocco,Africa,2016,1.4,2016-01-01
+Morocco,Africa,2017,1.8,2017-01-01
+Morocco,Africa,2018,2.0,2018-01-01
+Morocco,Africa,2019,1.2,2019-01-01
+Morocco,Africa,2020,1.1,2020-01-01
+Morocco,Africa,2021,2.7,2021-01-01
+Morocco,Africa,2022,3.9,2022-01-01
+Morocco,Africa,2023,3.7,2023-01-01
+Morocco,Africa,2024,2.8,2024-01-01
+Mozambique,Africa,2015,8.7,2015-01-01
+Mozambique,Africa,2016,7.5,2016-01-01
+Mozambique,Africa,2017,7.6,2017-01-01
+Mozambique,Africa,2018,8.4,2018-01-01
+Mozambique,Africa,2019,8.0,2019-01-01
+Mozambique,Africa,2020,7.2,2020-01-01
+Mozambique,Africa,2021,10.5,2021-01-01
+Mozambique,Africa,2022,11.3,2022-01-01
+Mozambique,Africa,2023,10.7,2023-01-01
+Mozambique,Africa,2024,9.0,2024-01-01
+Myanmar,Asia,2015,7.2,2015-01-01
+Myanmar,Asia,2016,6.6,2016-01-01
+Myanmar,Asia,2017,6.9,2017-01-01
+Myanmar,Asia,2018,7.4,2018-01-01
+Myanmar,Asia,2019,6.9,2019-01-01
+Myanmar,Asia,2020,6.1,2020-01-01
+Myanmar,Asia,2021,9.7,2021-01-01
+Myanmar,Asia,2022,10.5,2022-01-01
+Myanmar,Asia,2023,9.4,2023-01-01
+Myanmar,Asia,2024,7.6,2024-01-01
+Namibia,Africa,2015,4.7,2015-01-01
+Namibia,Africa,2016,4.5,2016-01-01
+Namibia,Africa,2017,5.0,2017-01-01
+Namibia,Africa,2018,5.9,2018-01-01
+Namibia,Africa,2019,5.0,2019-01-01
+Namibia,Africa,2020,4.6,2020-01-01
+Namibia,Africa,2021,7.0,2021-01-01
+Namibia,Africa,2022,8.5,2022-01-01
+Namibia,Africa,2023,7.5,2023-01-01
+Namibia,Africa,2024,6.5,2024-01-01
+Nauru,Oceania,2015,3.4,2015-01-01
+Nauru,Oceania,2016,2.0,2016-01-01
+Nauru,Oceania,2017,2.7,2017-01-01
+Nauru,Oceania,2018,3.4,2018-01-01
+Nauru,Oceania,2019,3.0,2019-01-01
+Nauru,Oceania,2020,2.4,2020-01-01
+Nauru,Oceania,2021,5.1,2021-01-01
+Nauru,Oceania,2022,6.4,2022-01-01
+Nauru,Oceania,2023,5.8,2023-01-01
+Nauru,Oceania,2024,4.8,2024-01-01
+Nepal,Asia,2015,6.1,2015-01-01
+Nepal,Asia,2016,5.9,2016-01-01
+Nepal,Asia,2017,6.3,2017-01-01
+Nepal,Asia,2018,6.3,2018-01-01
+Nepal,Asia,2019,6.3,2019-01-01
+Nepal,Asia,2020,5.2,2020-01-01
+Nepal,Asia,2021,8.0,2021-01-01
+Nepal,Asia,2022,10.0,2022-01-01
+Nepal,Asia,2023,7.6,2023-01-01
+Nepal,Asia,2024,7.0,2024-01-01
+Netherlands,Europe,2015,1.2,2015-01-01
+Netherlands,Europe,2016,1.1,2016-01-01
+Netherlands,Europe,2017,1.6,2017-01-01
+Netherlands,Europe,2018,1.5,2018-01-01
+Netherlands,Europe,2019,1.3,2019-01-01
+Netherlands,Europe,2020,0.7,2020-01-01
+Netherlands,Europe,2021,3.6,2021-01-01
+Netherlands,Europe,2022,4.6,2022-01-01
+Netherlands,Europe,2023,3.3,2023-01-01
+Netherlands,Europe,2024,2.5,2024-01-01
+New Zealand,Oceania,2015,1.7,2015-01-01
+New Zealand,Oceania,2016,1.2,2016-01-01
+New Zealand,Oceania,2017,2.1,2017-01-01
+New Zealand,Oceania,2018,2.1,2018-01-01
+New Zealand,Oceania,2019,2.0,2019-01-01
+New Zealand,Oceania,2020,1.0,2020-01-01
+New Zealand,Oceania,2021,3.3,2021-01-01
+New Zealand,Oceania,2022,4.7,2022-01-01
+New Zealand,Oceania,2023,4.0,2023-01-01
+New Zealand,Oceania,2024,3.2,2024-01-01
+Nicaragua,North America,2015,4.6,2015-01-01
+Nicaragua,North America,2016,4.9,2016-01-01
+Nicaragua,North America,2017,5.0,2017-01-01
+Nicaragua,North America,2018,5.7,2018-01-01
+Nicaragua,North America,2019,5.0,2019-01-01
+Nicaragua,North America,2020,3.8,2020-01-01
+Nicaragua,North America,2021,6.9,2021-01-01
+Nicaragua,North America,2022,8.6,2022-01-01
+Nicaragua,North America,2023,7.7,2023-01-01
+Nicaragua,North America,2024,6.5,2024-01-01
+Niger,Africa,2015,2.4,2015-01-01
+Niger,Africa,2016,2.0,2016-01-01
+Niger,Africa,2017,2.1,2017-01-01
+Niger,Africa,2018,2.6,2018-01-01
+Niger,Africa,2019,2.5,2019-01-01
+Niger,Africa,2020,1.9,2020-01-01
+Niger,Africa,2021,3.2,2021-01-01
+Niger,Africa,2022,4.4,2022-01-01
+Niger,Africa,2023,4.2,2023-01-01
+Niger,Africa,2024,2.9,2024-01-01
+Nigeria,Africa,2015,11.0,2015-01-01
+Nigeria,Africa,2016,11.2,2016-01-01
+Nigeria,Africa,2017,12.5,2017-01-01
+Nigeria,Africa,2018,12.4,2018-01-01
+Nigeria,Africa,2019,11.5,2019-01-01
+Nigeria,Africa,2020,10.7,2020-01-01
+Nigeria,Africa,2021,13.5,2021-01-01
+Nigeria,Africa,2022,14.9,2022-01-01
+Nigeria,Africa,2023,16.1,2023-01-01
+Nigeria,Africa,2024,13.7,2024-01-01
+North Macedonia,Europe,2015,1.7,2015-01-01
+North Macedonia,Europe,2016,1.1,2016-01-01
+North Macedonia,Europe,2017,1.6,2017-01-01
+North Macedonia,Europe,2018,1.7,2018-01-01
+North Macedonia,Europe,2019,0.8,2019-01-01
+North Macedonia,Europe,2020,0.6,2020-01-01
+North Macedonia,Europe,2021,2.5,2021-01-01
+North Macedonia,Europe,2022,3.6,2022-01-01
+North Macedonia,Europe,2023,3.1,2023-01-01
+North Macedonia,Europe,2024,3.0,2024-01-01
+Norway,Europe,2015,2.0,2015-01-01
+Norway,Europe,2016,2.0,2016-01-01
+Norway,Europe,2017,2.3,2017-01-01
+Norway,Europe,2018,2.6,2018-01-01
+Norway,Europe,2019,1.8,2019-01-01
+Norway,Europe,2020,1.5,2020-01-01
+Norway,Europe,2021,3.7,2021-01-01
+Norway,Europe,2022,4.5,2022-01-01
+Norway,Europe,2023,4.0,2023-01-01
+Norway,Europe,2024,3.3,2024-01-01
+Oman,Asia,2015,1.4,2015-01-01
+Oman,Asia,2016,0.9,2016-01-01
+Oman,Asia,2017,1.4,2017-01-01
+Oman,Asia,2018,1.9,2018-01-01
+Oman,Asia,2019,1.6,2019-01-01
+Oman,Asia,2020,0.7,2020-01-01
+Oman,Asia,2021,3.0,2021-01-01
+Oman,Asia,2022,4.3,2022-01-01
+Oman,Asia,2023,3.5,2023-01-01
+Oman,Asia,2024,3.0,2024-01-01
+Pakistan,Asia,2015,6.5,2015-01-01
+Pakistan,Asia,2016,5.2,2016-01-01
+Pakistan,Asia,2017,6.8,2017-01-01
+Pakistan,Asia,2018,6.3,2018-01-01
+Pakistan,Asia,2019,6.4,2019-01-01
+Pakistan,Asia,2020,5.2,2020-01-01
+Pakistan,Asia,2021,7.9,2021-01-01
+Pakistan,Asia,2022,8.8,2022-01-01
+Pakistan,Asia,2023,8.4,2023-01-01
+Pakistan,Asia,2024,6.9,2024-01-01
+Palau,Oceania,2015,2.2,2015-01-01
+Palau,Oceania,2016,2.1,2016-01-01
+Palau,Oceania,2017,2.0,2017-01-01
+Palau,Oceania,2018,2.5,2018-01-01
+Palau,Oceania,2019,1.8,2019-01-01
+Palau,Oceania,2020,1.2,2020-01-01
+Palau,Oceania,2021,3.7,2021-01-01
+Palau,Oceania,2022,4.6,2022-01-01
+Palau,Oceania,2023,4.3,2023-01-01
+Palau,Oceania,2024,3.0,2024-01-01
+Panama,North America,2015,1.7,2015-01-01
+Panama,North America,2016,1.2,2016-01-01
+Panama,North America,2017,1.8,2017-01-01
+Panama,North America,2018,1.8,2018-01-01
+Panama,North America,2019,1.5,2019-01-01
+Panama,North America,2020,0.9,2020-01-01
+Panama,North America,2021,2.8,2021-01-01
+Panama,North America,2022,4.3,2022-01-01
+Panama,North America,2023,3.5,2023-01-01
+Panama,North America,2024,2.8,2024-01-01
+Papua New Guinea,Oceania,2015,5.5,2015-01-01
+Papua New Guinea,Oceania,2016,5.0,2016-01-01
+Papua New Guinea,Oceania,2017,5.1,2017-01-01
+Papua New Guinea,Oceania,2018,5.6,2018-01-01
+Papua New Guinea,Oceania,2019,4.8,2019-01-01
+Papua New Guinea,Oceania,2020,4.2,2020-01-01
+Papua New Guinea,Oceania,2021,6.8,2021-01-01
+Papua New Guinea,Oceania,2022,9.0,2022-01-01
+Papua New Guinea,Oceania,2023,7.6,2023-01-01
+Papua New Guinea,Oceania,2024,6.4,2024-01-01
+Paraguay,South America,2015,4.3,2015-01-01
+Paraguay,South America,2016,3.1,2016-01-01
+Paraguay,South America,2017,3.7,2017-01-01
+Paraguay,South America,2018,4.7,2018-01-01
+Paraguay,South America,2019,4.0,2019-01-01
+Paraguay,South America,2020,3.3,2020-01-01
+Paraguay,South America,2021,5.7,2021-01-01
+Paraguay,South America,2022,7.5,2022-01-01
+Paraguay,South America,2023,7.0,2023-01-01
+Paraguay,South America,2024,5.7,2024-01-01
+Peru,South America,2015,3.0,2015-01-01
+Peru,South America,2016,2.5,2016-01-01
+Peru,South America,2017,3.1,2017-01-01
+Peru,South America,2018,3.0,2018-01-01
+Peru,South America,2019,3.1,2019-01-01
+Peru,South America,2020,2.4,2020-01-01
+Peru,South America,2021,4.6,2021-01-01
+Peru,South America,2022,6.3,2022-01-01
+Peru,South America,2023,5.2,2023-01-01
+Peru,South America,2024,4.3,2024-01-01
+Philippines,Asia,2015,3.5,2015-01-01
+Philippines,Asia,2016,2.6,2016-01-01
+Philippines,Asia,2017,3.9,2017-01-01
+Philippines,Asia,2018,4.2,2018-01-01
+Philippines,Asia,2019,3.4,2019-01-01
+Philippines,Asia,2020,2.1,2020-01-01
+Philippines,Asia,2021,5.3,2021-01-01
+Philippines,Asia,2022,7.3,2022-01-01
+Philippines,Asia,2023,5.3,2023-01-01
+Philippines,Asia,2024,4.9,2024-01-01
+Poland,Europe,2015,1.7,2015-01-01
+Poland,Europe,2016,1.9,2016-01-01
+Poland,Europe,2017,2.0,2017-01-01
+Poland,Europe,2018,2.5,2018-01-01
+Poland,Europe,2019,2.1,2019-01-01
+Poland,Europe,2020,1.9,2020-01-01
+Poland,Europe,2021,3.4,2021-01-01
+Poland,Europe,2022,4.7,2022-01-01
+Poland,Europe,2023,3.5,2023-01-01
+Poland,Europe,2024,3.4,2024-01-01
+Portugal,Europe,2015,1.3,2015-01-01
+Portugal,Europe,2016,1.1,2016-01-01
+Portugal,Europe,2017,1.6,2017-01-01
+Portugal,Europe,2018,1.5,2018-01-01
+Portugal,Europe,2019,1.6,2019-01-01
+Portugal,Europe,2020,1.1,2020-01-01
+Portugal,Europe,2021,3.1,2021-01-01
+Portugal,Europe,2022,3.7,2022-01-01
+Portugal,Europe,2023,3.3,2023-01-01
+Portugal,Europe,2024,2.8,2024-01-01
+Qatar,Asia,2015,1.5,2015-01-01
+Qatar,Asia,2016,1.4,2016-01-01
+Qatar,Asia,2017,2.4,2017-01-01
+Qatar,Asia,2018,2.4,2018-01-01
+Qatar,Asia,2019,2.1,2019-01-01
+Qatar,Asia,2020,1.9,2020-01-01
+Qatar,Asia,2021,3.6,2021-01-01
+Qatar,Asia,2022,4.8,2022-01-01
+Qatar,Asia,2023,4.6,2023-01-01
+Qatar,Asia,2024,3.1,2024-01-01
+Romania,Europe,2015,2.3,2015-01-01
+Romania,Europe,2016,2.3,2016-01-01
+Romania,Europe,2017,2.8,2017-01-01
+Romania,Europe,2018,2.7,2018-01-01
+Romania,Europe,2019,2.2,2019-01-01
+Romania,Europe,2020,2.5,2020-01-01
+Romania,Europe,2021,4.1,2021-01-01
+Romania,Europe,2022,4.9,2022-01-01
+Romania,Europe,2023,4.6,2023-01-01
+Romania,Europe,2024,3.6,2024-01-01
+Russia,Europe,2015,5.9,2015-01-01
+Russia,Europe,2016,5.8,2016-01-01
+Russia,Europe,2017,5.7,2017-01-01
+Russia,Europe,2018,6.6,2018-01-01
+Russia,Europe,2019,6.7,2019-01-01
+Russia,Europe,2020,5.4,2020-01-01
+Russia,Europe,2021,7.9,2021-01-01
+Russia,Europe,2022,9.3,2022-01-01
+Russia,Europe,2023,8.4,2023-01-01
+Russia,Europe,2024,7.4,2024-01-01
+Rwanda,Africa,2015,4.9,2015-01-01
+Rwanda,Africa,2016,4.9,2016-01-01
+Rwanda,Africa,2017,4.7,2017-01-01
+Rwanda,Africa,2018,5.8,2018-01-01
+Rwanda,Africa,2019,4.9,2019-01-01
+Rwanda,Africa,2020,4.3,2020-01-01
+Rwanda,Africa,2021,6.7,2021-01-01
+Rwanda,Africa,2022,8.9,2022-01-01
+Rwanda,Africa,2023,7.9,2023-01-01
+Rwanda,Africa,2024,6.8,2024-01-01
+Saint Kitts and Nevis,North America,2015,1.1,2015-01-01
+Saint Kitts and Nevis,North America,2016,1.4,2016-01-01
+Saint Kitts and Nevis,North America,2017,1.8,2017-01-01
+Saint Kitts and Nevis,North America,2018,1.5,2018-01-01
+Saint Kitts and Nevis,North America,2019,1.5,2019-01-01
+Saint Kitts and Nevis,North America,2020,1.0,2020-01-01
+Saint Kitts and Nevis,North America,2021,3.1,2021-01-01
+Saint Kitts and Nevis,North America,2022,4.2,2022-01-01
+Saint Kitts and Nevis,North America,2023,3.4,2023-01-01
+Saint Kitts and Nevis,North America,2024,3.0,2024-01-01
+Saint Lucia,North America,2015,1.8,2015-01-01
+Saint Lucia,North America,2016,0.5,2016-01-01
+Saint Lucia,North America,2017,1.6,2017-01-01
+Saint Lucia,North America,2018,1.8,2018-01-01
+Saint Lucia,North America,2019,1.1,2019-01-01
+Saint Lucia,North America,2020,0.9,2020-01-01
+Saint Lucia,North America,2021,3.3,2021-01-01
+Saint Lucia,North America,2022,3.9,2022-01-01
+Saint Lucia,North America,2023,3.5,2023-01-01
+Saint Lucia,North America,2024,2.4,2024-01-01
+Saint Vincent and the Grenadines,North America,2015,1.3,2015-01-01
+Saint Vincent and the Grenadines,North America,2016,1.6,2016-01-01
+Saint Vincent and the Grenadines,North America,2017,1.5,2017-01-01
+Saint Vincent and the Grenadines,North America,2018,2.0,2018-01-01
+Saint Vincent and the Grenadines,North America,2019,1.0,2019-01-01
+Saint Vincent and the Grenadines,North America,2020,1.4,2020-01-01
+Saint Vincent and the Grenadines,North America,2021,3.2,2021-01-01
+Saint Vincent and the Grenadines,North America,2022,4.1,2022-01-01
+Saint Vincent and the Grenadines,North America,2023,3.5,2023-01-01
+Saint Vincent and the Grenadines,North America,2024,2.3,2024-01-01
+Samoa,Oceania,2015,3.3,2015-01-01
+Samoa,Oceania,2016,2.5,2016-01-01
+Samoa,Oceania,2017,3.1,2017-01-01
+Samoa,Oceania,2018,3.4,2018-01-01
+Samoa,Oceania,2019,2.9,2019-01-01
+Samoa,Oceania,2020,2.4,2020-01-01
+Samoa,Oceania,2021,5.1,2021-01-01
+Samoa,Oceania,2022,6.7,2022-01-01
+Samoa,Oceania,2023,5.5,2023-01-01
+Samoa,Oceania,2024,4.6,2024-01-01
+Sao Tome and Principe,Africa,2015,5.8,2015-01-01
+Sao Tome and Principe,Africa,2016,6.4,2016-01-01
+Sao Tome and Principe,Africa,2017,5.6,2017-01-01
+Sao Tome and Principe,Africa,2018,7.0,2018-01-01
+Sao Tome and Principe,Africa,2019,6.5,2019-01-01
+Sao Tome and Principe,Africa,2020,4.9,2020-01-01
+Sao Tome and Principe,Africa,2021,8.8,2021-01-01
+Sao Tome and Principe,Africa,2022,9.9,2022-01-01
+Sao Tome and Principe,Africa,2023,8.8,2023-01-01
+Sao Tome and Principe,Africa,2024,7.5,2024-01-01
+Saudi Arabia,Asia,2015,1.9,2015-01-01
+Saudi Arabia,Asia,2016,1.6,2016-01-01
+Saudi Arabia,Asia,2017,2.2,2017-01-01
+Saudi Arabia,Asia,2018,2.7,2018-01-01
+Saudi Arabia,Asia,2019,2.0,2019-01-01
+Saudi Arabia,Asia,2020,1.2,2020-01-01
+Saudi Arabia,Asia,2021,3.7,2021-01-01
+Saudi Arabia,Asia,2022,4.9,2022-01-01
+Saudi Arabia,Asia,2023,4.0,2023-01-01
+Saudi Arabia,Asia,2024,3.3,2024-01-01
+Senegal,Africa,2015,1.4,2015-01-01
+Senegal,Africa,2016,1.0,2016-01-01
+Senegal,Africa,2017,1.4,2017-01-01
+Senegal,Africa,2018,1.5,2018-01-01
+Senegal,Africa,2019,1.6,2019-01-01
+Senegal,Africa,2020,0.9,2020-01-01
+Senegal,Africa,2021,2.9,2021-01-01
+Senegal,Africa,2022,3.4,2022-01-01
+Senegal,Africa,2023,3.1,2023-01-01
+Senegal,Africa,2024,2.9,2024-01-01
+Serbia,Europe,2015,2.3,2015-01-01
+Serbia,Europe,2016,2.3,2016-01-01
+Serbia,Europe,2017,2.3,2017-01-01
+Serbia,Europe,2018,3.2,2018-01-01
+Serbia,Europe,2019,2.5,2019-01-01
+Serbia,Europe,2020,2.0,2020-01-01
+Serbia,Europe,2021,4.6,2021-01-01
+Serbia,Europe,2022,5.5,2022-01-01
+Serbia,Europe,2023,4.3,2023-01-01
+Serbia,Europe,2024,3.5,2024-01-01
+Seychelles,Africa,2015,2.9,2015-01-01
+Seychelles,Africa,2016,2.7,2016-01-01
+Seychelles,Africa,2017,3.2,2017-01-01
+Seychelles,Africa,2018,3.4,2018-01-01
+Seychelles,Africa,2019,3.4,2019-01-01
+Seychelles,Africa,2020,2.2,2020-01-01
+Seychelles,Africa,2021,5.6,2021-01-01
+Seychelles,Africa,2022,6.5,2022-01-01
+Seychelles,Africa,2023,5.9,2023-01-01
+Seychelles,Africa,2024,4.6,2024-01-01
+Sierra Leone,Africa,2015,10.6,2015-01-01
+Sierra Leone,Africa,2016,9.2,2016-01-01
+Sierra Leone,Africa,2017,9.7,2017-01-01
+Sierra Leone,Africa,2018,10.8,2018-01-01
+Sierra Leone,Africa,2019,10.6,2019-01-01
+Sierra Leone,Africa,2020,9.2,2020-01-01
+Sierra Leone,Africa,2021,11.2,2021-01-01
+Sierra Leone,Africa,2022,12.7,2022-01-01
+Sierra Leone,Africa,2023,11.6,2023-01-01
+Sierra Leone,Africa,2024,10.4,2024-01-01
+Singapore,Asia,2015,1.5,2015-01-01
+Singapore,Asia,2016,1.5,2016-01-01
+Singapore,Asia,2017,1.6,2017-01-01
+Singapore,Asia,2018,1.3,2018-01-01
+Singapore,Asia,2019,1.5,2019-01-01
+Singapore,Asia,2020,0.9,2020-01-01
+Singapore,Asia,2021,3.5,2021-01-01
+Singapore,Asia,2022,3.8,2022-01-01
+Singapore,Asia,2023,3.3,2023-01-01
+Singapore,Asia,2024,3.1,2024-01-01
+Slovakia,Europe,2015,1.6,2015-01-01
+Slovakia,Europe,2016,1.3,2016-01-01
+Slovakia,Europe,2017,1.7,2017-01-01
+Slovakia,Europe,2018,2.0,2018-01-01
+Slovakia,Europe,2019,1.7,2019-01-01
+Slovakia,Europe,2020,0.7,2020-01-01
+Slovakia,Europe,2021,3.2,2021-01-01
+Slovakia,Europe,2022,3.8,2022-01-01
+Slovakia,Europe,2023,3.5,2023-01-01
+Slovakia,Europe,2024,2.7,2024-01-01
+Slovenia,Europe,2015,0.8,2015-01-01
+Slovenia,Europe,2016,0.7,2016-01-01
+Slovenia,Europe,2017,1.0,2017-01-01
+Slovenia,Europe,2018,1.1,2018-01-01
+Slovenia,Europe,2019,0.9,2019-01-01
+Slovenia,Europe,2020,0.1,2020-01-01
+Slovenia,Europe,2021,2.6,2021-01-01
+Slovenia,Europe,2022,3.3,2022-01-01
+Slovenia,Europe,2023,3.1,2023-01-01
+Slovenia,Europe,2024,1.8,2024-01-01
+Solomon Islands,Oceania,2015,3.9,2015-01-01
+Solomon Islands,Oceania,2016,3.4,2016-01-01
+Solomon Islands,Oceania,2017,4.5,2017-01-01
+Solomon Islands,Oceania,2018,4.6,2018-01-01
+Solomon Islands,Oceania,2019,3.9,2019-01-01
+Solomon Islands,Oceania,2020,3.3,2020-01-01
+Solomon Islands,Oceania,2021,5.5,2021-01-01
+Solomon Islands,Oceania,2022,7.5,2022-01-01
+Solomon Islands,Oceania,2023,7.0,2023-01-01
+Solomon Islands,Oceania,2024,5.5,2024-01-01
+Somalia,Africa,2015,8.0,2015-01-01
+Somalia,Africa,2016,7.9,2016-01-01
+Somalia,Africa,2017,8.6,2017-01-01
+Somalia,Africa,2018,7.5,2018-01-01
+Somalia,Africa,2019,7.2,2019-01-01
+Somalia,Africa,2020,7.3,2020-01-01
+Somalia,Africa,2021,9.7,2021-01-01
+Somalia,Africa,2022,12.1,2022-01-01
+Somalia,Africa,2023,10.3,2023-01-01
+Somalia,Africa,2024,8.6,2024-01-01
+South Africa,Africa,2015,4.6,2015-01-01
+South Africa,Africa,2016,3.8,2016-01-01
+South Africa,Africa,2017,5.1,2017-01-01
+South Africa,Africa,2018,5.4,2018-01-01
+South Africa,Africa,2019,4.9,2019-01-01
+South Africa,Africa,2020,4.5,2020-01-01
+South Africa,Africa,2021,7.4,2021-01-01
+South Africa,Africa,2022,8.4,2022-01-01
+South Africa,Africa,2023,6.9,2023-01-01
+South Africa,Africa,2024,6.7,2024-01-01
+South Korea,Asia,2015,1.9,2015-01-01
+South Korea,Asia,2016,1.6,2016-01-01
+South Korea,Asia,2017,2.2,2017-01-01
+South Korea,Asia,2018,1.9,2018-01-01
+South Korea,Asia,2019,2.3,2019-01-01
+South Korea,Asia,2020,1.0,2020-01-01
+South Korea,Asia,2021,3.5,2021-01-01
+South Korea,Asia,2022,4.0,2022-01-01
+South Korea,Asia,2023,3.4,2023-01-01
+South Korea,Asia,2024,3.3,2024-01-01
+South Sudan,Africa,2015,19.7,2015-01-01
+South Sudan,Africa,2016,20.6,2016-01-01
+South Sudan,Africa,2017,20.5,2017-01-01
+South Sudan,Africa,2018,20.4,2018-01-01
+South Sudan,Africa,2019,21.6,2019-01-01
+South Sudan,Africa,2020,18.9,2020-01-01
+South Sudan,Africa,2021,19.9,2021-01-01
+South Sudan,Africa,2022,22.5,2022-01-01
+South Sudan,Africa,2023,23.2,2023-01-01
+South Sudan,Africa,2024,22.0,2024-01-01
+Spain,Europe,2015,0.8,2015-01-01
+Spain,Europe,2016,0.7,2016-01-01
+Spain,Europe,2017,1.2,2017-01-01
+Spain,Europe,2018,1.5,2018-01-01
+Spain,Europe,2019,0.9,2019-01-01
+Spain,Europe,2020,0.4,2020-01-01
+Spain,Europe,2021,2.5,2021-01-01
+Spain,Europe,2022,4.0,2022-01-01
+Spain,Europe,2023,3.3,2023-01-01
+Spain,Europe,2024,2.3,2024-01-01
+Sri Lanka,Asia,2015,5.9,2015-01-01
+Sri Lanka,Asia,2016,5.7,2016-01-01
+Sri Lanka,Asia,2017,5.9,2017-01-01
+Sri Lanka,Asia,2018,6.1,2018-01-01
+Sri Lanka,Asia,2019,5.7,2019-01-01
+Sri Lanka,Asia,2020,5.0,2020-01-01
+Sri Lanka,Asia,2021,7.6,2021-01-01
+Sri Lanka,Asia,2022,9.6,2022-01-01
+Sri Lanka,Asia,2023,8.8,2023-01-01
+Sri Lanka,Asia,2024,6.9,2024-01-01
+Sudan,Africa,2015,20.0,2015-01-01
+Sudan,Africa,2016,19.3,2016-01-01
+Sudan,Africa,2017,20.6,2017-01-01
+Sudan,Africa,2018,20.5,2018-01-01
+Sudan,Africa,2019,18.3,2019-01-01
+Sudan,Africa,2020,17.7,2020-01-01
+Sudan,Africa,2021,22.0,2021-01-01
+Sudan,Africa,2022,24.7,2022-01-01
+Sudan,Africa,2023,19.8,2023-01-01
+Sudan,Africa,2024,21.9,2024-01-01
+Suriname,South America,2015,8.6,2015-01-01
+Suriname,South America,2016,7.5,2016-01-01
+Suriname,South America,2017,8.5,2017-01-01
+Suriname,South America,2018,8.2,2018-01-01
+Suriname,South America,2019,7.9,2019-01-01
+Suriname,South America,2020,6.4,2020-01-01
+Suriname,South America,2021,8.9,2021-01-01
+Suriname,South America,2022,12.0,2022-01-01
+Suriname,South America,2023,10.0,2023-01-01
+Suriname,South America,2024,9.3,2024-01-01
+Sweden,Europe,2015,1.2,2015-01-01
+Sweden,Europe,2016,0.8,2016-01-01
+Sweden,Europe,2017,1.6,2017-01-01
+Sweden,Europe,2018,1.7,2018-01-01
+Sweden,Europe,2019,1.6,2019-01-01
+Sweden,Europe,2020,1.0,2020-01-01
+Sweden,Europe,2021,3.1,2021-01-01
+Sweden,Europe,2022,4.2,2022-01-01
+Sweden,Europe,2023,3.8,2023-01-01
+Sweden,Europe,2024,2.4,2024-01-01
+Switzerland,Europe,2015,0.2,2015-01-01
+Switzerland,Europe,2016,0.2,2016-01-01
+Switzerland,Europe,2017,0.7,2017-01-01
+Switzerland,Europe,2018,0.2,2018-01-01
+Switzerland,Europe,2019,0.1,2019-01-01
+Switzerland,Europe,2020,-0.1,2020-01-01
+Switzerland,Europe,2021,1.8,2021-01-01
+Switzerland,Europe,2022,2.9,2022-01-01
+Switzerland,Europe,2023,2.0,2023-01-01
+Switzerland,Europe,2024,1.2,2024-01-01
+Syria,Asia,2015,20.3,2015-01-01
+Syria,Asia,2016,19.3,2016-01-01
+Syria,Asia,2017,20.1,2017-01-01
+Syria,Asia,2018,20.6,2018-01-01
+Syria,Asia,2019,19.2,2019-01-01
+Syria,Asia,2020,19.8,2020-01-01
+Syria,Asia,2021,25.5,2021-01-01
+Syria,Asia,2022,21.4,2022-01-01
+Syria,Asia,2023,22.9,2023-01-01
+Syria,Asia,2024,20.6,2024-01-01
+Tajikistan,Asia,2015,6.2,2015-01-01
+Tajikistan,Asia,2016,5.6,2016-01-01
+Tajikistan,Asia,2017,6.5,2017-01-01
+Tajikistan,Asia,2018,6.9,2018-01-01
+Tajikistan,Asia,2019,6.1,2019-01-01
+Tajikistan,Asia,2020,5.6,2020-01-01
+Tajikistan,Asia,2021,7.2,2021-01-01
+Tajikistan,Asia,2022,10.1,2022-01-01
+Tajikistan,Asia,2023,8.6,2023-01-01
+Tajikistan,Asia,2024,7.9,2024-01-01
+Tanzania,Africa,2015,4.6,2015-01-01
+Tanzania,Africa,2016,4.4,2016-01-01
+Tanzania,Africa,2017,5.2,2017-01-01
+Tanzania,Africa,2018,5.5,2018-01-01
+Tanzania,Africa,2019,5.1,2019-01-01
+Tanzania,Africa,2020,4.5,2020-01-01
+Tanzania,Africa,2021,6.5,2021-01-01
+Tanzania,Africa,2022,8.8,2022-01-01
+Tanzania,Africa,2023,7.5,2023-01-01
+Tanzania,Africa,2024,6.4,2024-01-01
+Thailand,Asia,2015,1.1,2015-01-01
+Thailand,Asia,2016,1.3,2016-01-01
+Thailand,Asia,2017,1.0,2017-01-01
+Thailand,Asia,2018,2.0,2018-01-01
+Thailand,Asia,2019,1.1,2019-01-01
+Thailand,Asia,2020,0.9,2020-01-01
+Thailand,Asia,2021,3.0,2021-01-01
+Thailand,Asia,2022,4.4,2022-01-01
+Thailand,Asia,2023,3.3,2023-01-01
+Thailand,Asia,2024,2.5,2024-01-01
+Timor-Leste,Asia,2015,0.9,2015-01-01
+Timor-Leste,Asia,2016,1.0,2016-01-01
+Timor-Leste,Asia,2017,1.3,2017-01-01
+Timor-Leste,Asia,2018,1.3,2018-01-01
+Timor-Leste,Asia,2019,0.9,2019-01-01
+Timor-Leste,Asia,2020,0.0,2020-01-01
+Timor-Leste,Asia,2021,2.6,2021-01-01
+Timor-Leste,Asia,2022,3.2,2022-01-01
+Timor-Leste,Asia,2023,3.1,2023-01-01
+Timor-Leste,Asia,2024,2.2,2024-01-01
+Togo,Africa,2015,2.1,2015-01-01
+Togo,Africa,2016,0.9,2016-01-01
+Togo,Africa,2017,1.6,2017-01-01
+Togo,Africa,2018,2.3,2018-01-01
+Togo,Africa,2019,1.8,2019-01-01
+Togo,Africa,2020,0.7,2020-01-01
+Togo,Africa,2021,3.1,2021-01-01
+Togo,Africa,2022,4.1,2022-01-01
+Togo,Africa,2023,3.4,2023-01-01
+Togo,Africa,2024,2.5,2024-01-01
+Tonga,Oceania,2015,4.0,2015-01-01
+Tonga,Oceania,2016,3.2,2016-01-01
+Tonga,Oceania,2017,4.2,2017-01-01
+Tonga,Oceania,2018,4.6,2018-01-01
+Tonga,Oceania,2019,3.9,2019-01-01
+Tonga,Oceania,2020,2.8,2020-01-01
+Tonga,Oceania,2021,6.2,2021-01-01
+Tonga,Oceania,2022,7.6,2022-01-01
+Tonga,Oceania,2023,6.3,2023-01-01
+Tonga,Oceania,2024,5.4,2024-01-01
+Trinidad and Tobago,North America,2015,2.1,2015-01-01
+Trinidad and Tobago,North America,2016,1.9,2016-01-01
+Trinidad and Tobago,North America,2017,2.5,2017-01-01
+Trinidad and Tobago,North America,2018,3.2,2018-01-01
+Trinidad and Tobago,North America,2019,2.3,2019-01-01
+Trinidad and Tobago,North America,2020,2.1,2020-01-01
+Trinidad and Tobago,North America,2021,3.9,2021-01-01
+Trinidad and Tobago,North America,2022,5.2,2022-01-01
+Trinidad and Tobago,North America,2023,4.3,2023-01-01
+Trinidad and Tobago,North America,2024,3.8,2024-01-01
+Tunisia,Africa,2015,4.8,2015-01-01
+Tunisia,Africa,2016,4.1,2016-01-01
+Tunisia,Africa,2017,4.8,2017-01-01
+Tunisia,Africa,2018,5.3,2018-01-01
+Tunisia,Africa,2019,4.6,2019-01-01
+Tunisia,Africa,2020,4.3,2020-01-01
+Tunisia,Africa,2021,6.9,2021-01-01
+Tunisia,Africa,2022,9.2,2022-01-01
+Tunisia,Africa,2023,7.0,2023-01-01
+Tunisia,Africa,2024,6.6,2024-01-01
+Turkey,Asia,2015,14.0,2015-01-01
+Turkey,Asia,2016,14.2,2016-01-01
+Turkey,Asia,2017,15.3,2017-01-01
+Turkey,Asia,2018,13.4,2018-01-01
+Turkey,Asia,2019,15.2,2019-01-01
+Turkey,Asia,2020,15.9,2020-01-01
+Turkey,Asia,2021,16.6,2021-01-01
+Turkey,Asia,2022,18.7,2022-01-01
+Turkey,Asia,2023,18.4,2023-01-01
+Turkey,Asia,2024,16.4,2024-01-01
+Turkmenistan,Asia,2015,7.7,2015-01-01
+Turkmenistan,Asia,2016,6.5,2016-01-01
+Turkmenistan,Asia,2017,8.5,2017-01-01
+Turkmenistan,Asia,2018,8.4,2018-01-01
+Turkmenistan,Asia,2019,7.5,2019-01-01
+Turkmenistan,Asia,2020,7.3,2020-01-01
+Turkmenistan,Asia,2021,9.7,2021-01-01
+Turkmenistan,Asia,2022,11.2,2022-01-01
+Turkmenistan,Asia,2023,10.8,2023-01-01
+Turkmenistan,Asia,2024,8.9,2024-01-01
+Tuvalu,Oceania,2015,3.3,2015-01-01
+Tuvalu,Oceania,2016,2.3,2016-01-01
+Tuvalu,Oceania,2017,3.0,2017-01-01
+Tuvalu,Oceania,2018,4.0,2018-01-01
+Tuvalu,Oceania,2019,3.3,2019-01-01
+Tuvalu,Oceania,2020,2.2,2020-01-01
+Tuvalu,Oceania,2021,4.8,2021-01-01
+Tuvalu,Oceania,2022,6.4,2022-01-01
+Tuvalu,Oceania,2023,5.5,2023-01-01
+Tuvalu,Oceania,2024,4.5,2024-01-01
+Uganda,Africa,2015,5.0,2015-01-01
+Uganda,Africa,2016,4.6,2016-01-01
+Uganda,Africa,2017,5.1,2017-01-01
+Uganda,Africa,2018,5.1,2018-01-01
+Uganda,Africa,2019,4.8,2019-01-01
+Uganda,Africa,2020,4.5,2020-01-01
+Uganda,Africa,2021,6.6,2021-01-01
+Uganda,Africa,2022,8.4,2022-01-01
+Uganda,Africa,2023,7.3,2023-01-01
+Uganda,Africa,2024,6.5,2024-01-01
+Ukraine,Europe,2015,7.8,2015-01-01
+Ukraine,Europe,2016,8.3,2016-01-01
+Ukraine,Europe,2017,8.4,2017-01-01
+Ukraine,Europe,2018,7.9,2018-01-01
+Ukraine,Europe,2019,8.3,2019-01-01
+Ukraine,Europe,2020,6.8,2020-01-01
+Ukraine,Europe,2021,9.7,2021-01-01
+Ukraine,Europe,2022,11.7,2022-01-01
+Ukraine,Europe,2023,10.3,2023-01-01
+Ukraine,Europe,2024,9.9,2024-01-01
+United Arab Emirates,Asia,2015,1.8,2015-01-01
+United Arab Emirates,Asia,2016,1.5,2016-01-01
+United Arab Emirates,Asia,2017,2.0,2017-01-01
+United Arab Emirates,Asia,2018,2.2,2018-01-01
+United Arab Emirates,Asia,2019,2.3,2019-01-01
+United Arab Emirates,Asia,2020,1.6,2020-01-01
+United Arab Emirates,Asia,2021,3.9,2021-01-01
+United Arab Emirates,Asia,2022,5.2,2022-01-01
+United Arab Emirates,Asia,2023,3.6,2023-01-01
+United Arab Emirates,Asia,2024,3.1,2024-01-01
+United Kingdom,Europe,2015,1.5,2015-01-01
+United Kingdom,Europe,2016,1.3,2016-01-01
+United Kingdom,Europe,2017,1.8,2017-01-01
+United Kingdom,Europe,2018,1.9,2018-01-01
+United Kingdom,Europe,2019,1.5,2019-01-01
+United Kingdom,Europe,2020,1.2,2020-01-01
+United Kingdom,Europe,2021,3.0,2021-01-01
+United Kingdom,Europe,2022,4.6,2022-01-01
+United Kingdom,Europe,2023,3.4,2023-01-01
+United Kingdom,Europe,2024,3.6,2024-01-01
+United States,North America,2015,1.7,2015-01-01
+United States,North America,2016,1.5,2016-01-01
+United States,North America,2017,1.6,2017-01-01
+United States,North America,2018,2.6,2018-01-01
+United States,North America,2019,2.1,2019-01-01
+United States,North America,2020,1.3,2020-01-01
+United States,North America,2021,3.0,2021-01-01
+United States,North America,2022,4.5,2022-01-01
+United States,North America,2023,3.4,2023-01-01
+United States,North America,2024,3.3,2024-01-01
+Uruguay,South America,2015,7.3,2015-01-01
+Uruguay,South America,2016,6.6,2016-01-01
+Uruguay,South America,2017,6.2,2017-01-01
+Uruguay,South America,2018,7.1,2018-01-01
+Uruguay,South America,2019,7.3,2019-01-01
+Uruguay,South America,2020,6.7,2020-01-01
+Uruguay,South America,2021,9.5,2021-01-01
+Uruguay,South America,2022,9.8,2022-01-01
+Uruguay,South America,2023,9.6,2023-01-01
+Uruguay,South America,2024,8.9,2024-01-01
+Uzbekistan,Asia,2015,9.0,2015-01-01
+Uzbekistan,Asia,2016,9.6,2016-01-01
+Uzbekistan,Asia,2017,10.4,2017-01-01
+Uzbekistan,Asia,2018,10.3,2018-01-01
+Uzbekistan,Asia,2019,8.9,2019-01-01
+Uzbekistan,Asia,2020,9.0,2020-01-01
+Uzbekistan,Asia,2021,11.8,2021-01-01
+Uzbekistan,Asia,2022,13.4,2022-01-01
+Uzbekistan,Asia,2023,12.2,2023-01-01
+Uzbekistan,Asia,2024,11.2,2024-01-01
+Vanuatu,Oceania,2015,2.5,2015-01-01
+Vanuatu,Oceania,2016,2.3,2016-01-01
+Vanuatu,Oceania,2017,2.6,2017-01-01
+Vanuatu,Oceania,2018,2.8,2018-01-01
+Vanuatu,Oceania,2019,2.5,2019-01-01
+Vanuatu,Oceania,2020,1.4,2020-01-01
+Vanuatu,Oceania,2021,4.1,2021-01-01
+Vanuatu,Oceania,2022,5.1,2022-01-01
+Vanuatu,Oceania,2023,4.4,2023-01-01
+Vanuatu,Oceania,2024,3.9,2024-01-01
+Venezuela,South America,2015,44.1,2015-01-01
+Venezuela,South America,2016,43.7,2016-01-01
+Venezuela,South America,2017,51.0,2017-01-01
+Venezuela,South America,2018,50.5,2018-01-01
+Venezuela,South America,2019,50.5,2019-01-01
+Venezuela,South America,2020,47.8,2020-01-01
+Venezuela,South America,2021,54.0,2021-01-01
+Venezuela,South America,2022,56.3,2022-01-01
+Venezuela,South America,2023,54.0,2023-01-01
+Venezuela,South America,2024,50.7,2024-01-01
+Vietnam,Asia,2015,2.5,2015-01-01
+Vietnam,Asia,2016,2.8,2016-01-01
+Vietnam,Asia,2017,3.5,2017-01-01
+Vietnam,Asia,2018,3.7,2018-01-01
+Vietnam,Asia,2019,2.8,2019-01-01
+Vietnam,Asia,2020,2.4,2020-01-01
+Vietnam,Asia,2021,5.2,2021-01-01
+Vietnam,Asia,2022,6.9,2022-01-01
+Vietnam,Asia,2023,5.3,2023-01-01
+Vietnam,Asia,2024,4.4,2024-01-01
+Yemen,Asia,2015,10.4,2015-01-01
+Yemen,Asia,2016,9.6,2016-01-01
+Yemen,Asia,2017,9.5,2017-01-01
+Yemen,Asia,2018,10.7,2018-01-01
+Yemen,Asia,2019,10.3,2019-01-01
+Yemen,Asia,2020,9.3,2020-01-01
+Yemen,Asia,2021,12.1,2021-01-01
+Yemen,Asia,2022,13.3,2022-01-01
+Yemen,Asia,2023,13.4,2023-01-01
+Yemen,Asia,2024,11.0,2024-01-01
+Zambia,Africa,2015,11.6,2015-01-01
+Zambia,Africa,2016,11.6,2016-01-01
+Zambia,Africa,2017,12.8,2017-01-01
+Zambia,Africa,2018,11.4,2018-01-01
+Zambia,Africa,2019,11.1,2019-01-01
+Zambia,Africa,2020,9.7,2020-01-01
+Zambia,Africa,2021,14.0,2021-01-01
+Zambia,Africa,2022,14.7,2022-01-01
+Zambia,Africa,2023,14.2,2023-01-01
+Zambia,Africa,2024,14.0,2024-01-01
+Zimbabwe,Africa,2015,24.0,2015-01-01
+Zimbabwe,Africa,2016,24.9,2016-01-01
+Zimbabwe,Africa,2017,24.8,2017-01-01
+Zimbabwe,Africa,2018,26.5,2018-01-01
+Zimbabwe,Africa,2019,25.7,2019-01-01
+Zimbabwe,Africa,2020,23.2,2020-01-01
+Zimbabwe,Africa,2021,26.7,2021-01-01
+Zimbabwe,Africa,2022,30.1,2022-01-01
+Zimbabwe,Africa,2023,28.1,2023-01-01
+Zimbabwe,Africa,2024,24.4,2024-01-01
