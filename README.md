@@ -5,3 +5,5 @@ Key Findings
 • Some countries show persistent high inflation over multiple years.
 • Several countries show relatively stable inflation.
 • The dashboard makes it possible to compare countries and identify changes over time.
+
+<img src="https://github.com/amitholt/inflation-analysis-powerbi/blob/8eee219e643362fb70473d7832ae8f071e40c692/dashboard.png.png" alt="Image Description" width="600">
